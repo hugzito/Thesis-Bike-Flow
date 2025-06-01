@@ -1,0 +1,15 @@
+osmnx
+networkx
+pandas
+numpy
+torch-geometric
+torch
+folium
+geopandas
+geopy
+scipy
+esda
+shapely
+momepy
+seaborn
+matplotlib

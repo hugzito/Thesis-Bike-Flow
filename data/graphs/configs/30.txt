@@ -1,0 +1,3 @@
+features: building
+expand_features: building
+distance: 10000

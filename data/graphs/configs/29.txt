@@ -1,0 +1,3 @@
+features: aerialway aeroway amenity barrier boundary building craft emergency geological healthcare highway historic landuse leisure man_made military natural office place power public_transport railway route service shop telecom tourism water waterway
+expand_features: aerialway aeroway amenity barrier boundary building craft emergency geological healthcare highway historic landuse leisure man_made military natural office place power public_transport railway route service shop telecom tourism water waterway
+distance: 10000

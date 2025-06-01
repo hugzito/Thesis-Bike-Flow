@@ -1,0 +1,1175 @@
+id,vejnavn,geometry,aadt_cykler
+trafiktaelling.1,H.C. Andersens Boulevard,POINT (12.5654914 55.67796085),16200.0
+trafiktaelling.2,Bredgade,POINT (12.58760011 55.6811636),7700.0
+trafiktaelling.3,Christian d. IV's Bro,POINT (12.58719494 55.67556235),10000.0
+trafiktaelling.4,Dronning Louises Bro,POINT (12.56377238 55.68672614),35100.0
+trafiktaelling.5,Kampmannsgade,POINT (12.5578752 55.67796165),9400.0
+trafiktaelling.6,Ellebjergvej,POINT (12.51099044 55.65050283),4300.0
+trafiktaelling.7,Englandsvej,POINT (12.59984564 55.63848509),2000.0
+trafiktaelling.8,Farvergade,POINT (12.57262674 55.67599653),2400.0
+trafiktaelling.9,Frederiksborggade,POINT (12.57296684 55.68308817),1100.0
+trafiktaelling.10,Frederiksborggade,POINT (12.56636947 55.68570842),18100.0
+trafiktaelling.11,Frederiksborgvej,POINT (12.52515344 55.72710589),5000.0
+trafiktaelling.12,Frederikssundsvej,POINT (12.46779765 55.71312181),3500.0
+trafiktaelling.13,Gl. Køge Landevej,POINT (12.50132651 55.64253657),3600.0
+trafiktaelling.14,Gothersgade,POINT (12.56654505 55.68641229),12600.0
+trafiktaelling.15,Grøndals Parkvej,POINT (12.48738954 55.67777162),2300.0
+trafiktaelling.16,Gyldenløvesgade,POINT (12.55887905 55.68162962),27800.0
+trafiktaelling.17,Hareskovvej,POINT (12.50390557 55.71341712),3700.0
+trafiktaelling.18,Hillerødgade,POINT (12.52488106 55.69669618),4500.0
+trafiktaelling.19,Jagtvej,POINT (12.54816659 55.69376045),14400.0
+trafiktaelling.20,Jyllingevej,POINT (12.46732593 55.69153948),1700.0
+trafiktaelling.21,Kalvebod Brygge,POINT (12.571198 55.66775458),6800.0
+trafiktaelling.22,Knippelsbro,POINT (12.58699888 55.67489294),21900.0
+trafiktaelling.23,Kristen Bernikows Gade,POINT (12.58229566 55.67998568),14700.0
+trafiktaelling.24,Langebro,POINT (12.57876579 55.67031385),25100.0
+trafiktaelling.25,Lyngbyvej,POINT (12.55667985 55.7189695),
+trafiktaelling.26,Nørre Allé,POINT (12.56222775 55.70196298),8200.0
+trafiktaelling.27,Nørregade,POINT (12.57098559 55.68210596),10700.0
+trafiktaelling.28,Nørre Voldgade,POINT (12.566473 55.67933661),9800.0
+trafiktaelling.29,Roskildevej,POINT (12.47622409 55.67272469),6000.0
+trafiktaelling.30,Sjællandsbroen,POINT (12.55037702 55.64161981),1700.0
+trafiktaelling.31,Slotsherrensvej,POINT (12.46813625 55.69993413),2500.0
+trafiktaelling.32,St. Kongensgade,POINT (12.5858876 55.6821543),9400.0
+trafiktaelling.33,Strandboulevarden,POINT (12.5904118 55.69918161),3000.0
+trafiktaelling.34,Strandvejen,POINT (12.57744989 55.7237688),7800.0
+trafiktaelling.35,Sølvgade,POINT (12.57371804 55.68972461),6000.0
+trafiktaelling.36,Sønderkær,POINT (12.48658322 55.65226125),1200.0
+trafiktaelling.37,Tagensvej,POINT (12.53559213 55.71291391),4300.0
+trafiktaelling.38,Tuborgvej,POINT (12.54135327 55.71952559),3200.0
+trafiktaelling.39,Tuborgvej,POINT (12.54578136 55.72254626),2600.0
+trafiktaelling.40,Vesterbrogade,POINT (12.56677244 55.6753645),10100.0
+trafiktaelling.41,Vester Farimagsgade,POINT (12.56194933 55.67569778),7000.0
+trafiktaelling.42,Vigerslev Allé,POINT (12.51833339 55.66166099),8600.0
+trafiktaelling.43,Vigerslev Allé,POINT (12.48572216 55.65466783),2200.0
+trafiktaelling.44,Vigerslevvej,POINT (12.48276964 55.66270712),2100.0
+trafiktaelling.45,Østbanegade,POINT (12.59155582 55.69948511),2700.0
+trafiktaelling.46,Østbanegade,POINT (12.59155582 55.69948511),2700.0
+trafiktaelling.47,Øster Allé,POINT (12.56426472 55.70566503),2600.0
+trafiktaelling.48,Østerbrogade,POINT (12.5794582 55.69691876),21400.0
+trafiktaelling.49,Øster Søgade,POINT (12.56624811 55.68702946),9700.0
+trafiktaelling.50,Åboulevard,POINT (12.55594231 55.68340208),10900.0
+trafiktaelling.51,Amagerbrogade,POINT (12.61664106 55.64158255),3700.0
+trafiktaelling.52,Amager Strandvej,POINT (12.6433993 55.64613219),1000.0
+trafiktaelling.53,Amaliegade,POINT (12.59553402 55.68680821),3300.0
+trafiktaelling.54,Dag Hammerskjölds Allé,POINT (12.58109108 55.69527948),12100.0
+trafiktaelling.55,Enghavevej,POINT (12.53866149 55.65376932),10600.0
+trafiktaelling.56,Folke Bernadottes Alle,POINT (12.59369095 55.6950182),9100.0
+trafiktaelling.57,Fredensbro,POINT (12.56985087 55.69174746),17800.0
+trafiktaelling.58,Grønnemose Allé,POINT (12.52173388 55.72256218),1900.0
+trafiktaelling.59,Horsebakken,POINT (12.51311408 55.71814905),1300.0
+trafiktaelling.60,Ingerslevsgade,POINT (12.56533283 55.66991365),4100.0
+trafiktaelling.61,Ingerslevsgade,POINT (12.56533283 55.66991365),4100.0
+trafiktaelling.62,Islevhusvej,POINT (12.45776666 55.70737545),1400.0
+trafiktaelling.63,Kastrupvej,POINT (12.62838193 55.64432153),1600.0
+trafiktaelling.64,Kongelundsvej,POINT (12.58875849 55.63804014),2200.0
+trafiktaelling.65,Kronprinsessegade,POINT (12.58108086 55.6830627),7400.0
+trafiktaelling.66,Mørkhøjvej,POINT (12.46819405 55.71323136),2600.0
+trafiktaelling.67,Rygårds Allé,POINT (12.55960374 55.72260799),700.0
+trafiktaelling.68,Ryvangs Allé,POINT (12.56855675 55.72939153),2900.0
+trafiktaelling.69,Sumatravej,POINT (12.63378242 55.64549835),300.0
+trafiktaelling.70,Svanemøllevej,POINT (12.57393655 55.72906723),700.0
+trafiktaelling.71,Sølvgade,POINT (12.57965051 55.68714796),9100.0
+trafiktaelling.72,Sølvgade,POINT (12.57542471 55.68892055),12300.0
+trafiktaelling.73,Torvegade,POINT (12.59515528 55.67013919),23500.0
+trafiktaelling.74,Universitetsparken,POINT (12.55933222 55.70296692),4200.0
+trafiktaelling.75,Øster Farimagsgade,POINT (12.56993124 55.68628238),11200.0
+trafiktaelling.76,Øster Voldgade,POINT (12.57746875 55.68702493),7500.0
+trafiktaelling.77,Amager Boulevard,POINT (12.5983001 55.66571394),8800.0
+trafiktaelling.78,Amagerbrogade,POINT (12.60751367 55.65841464),11700.0
+trafiktaelling.79,Annebergvej,POINT (12.50264289 55.69638366),1800.0
+trafiktaelling.80,Bellahøjvej,POINT (12.51385036 55.70553745),1600.0
+trafiktaelling.81,Borgergade,POINT (12.58391795 55.68234291),4500.0
+trafiktaelling.82,Dybbølsbro,POINT (12.5594729 55.66466356),20600.0
+trafiktaelling.83,Frederiksberggade,POINT (12.56975849 55.67664988),300.0
+trafiktaelling.84,Frederikssundsvej,POINT (12.53403497 55.70169208),18600.0
+trafiktaelling.85,Frederikssundsvej,POINT (12.50001847 55.70449412),5900.0
+trafiktaelling.86,Fælledvej,POINT (12.5597638 55.68856026),7700.0
+trafiktaelling.87,Gammel Kongevej,POINT (12.5560013 55.67382052),15800.0
+trafiktaelling.88,Gl. Køge Landevej,POINT (12.51468667 55.65901039),7100.0
+trafiktaelling.89,Gothersgade,POINT (12.58485572 55.68156865),11800.0
+trafiktaelling.90,Bryggebroen,POINT (12.56689481 55.66146297),19700.0
+trafiktaelling.91,Hillerødgade,POINT (12.53064524 55.69678995),4800.0
+trafiktaelling.92,Holmens kanal,POINT (12.58584335 55.67852844),8900.0
+trafiktaelling.93,Hulgårdsvej,POINT (12.51316122 55.69662916),3300.0
+trafiktaelling.94,Lygten,POINT (12.53745931 55.70201699),8800.0
+trafiktaelling.95,Nyhavnsbroen,POINT (12.59130066 55.67965165),4600.0
+trafiktaelling.96,Åbuen,POINT (12.54513323 55.68656015),9400.0
+trafiktaelling.97,Nørrebrogade,POINT (12.54823382 55.69473241),24500.0
+trafiktaelling.98,Nørre Søgade,POINT (12.56425384 55.68512427),10500.0
+trafiktaelling.99,Peter Bangs Vej,POINT (12.48365581 55.67348018),2200.0
+trafiktaelling.100,Rebildvej,POINT (12.50401304 55.69003801),1900.0
+trafiktaelling.101,Røde Mellemvej,POINT (12.59177017 55.64559953),3700.0
+trafiktaelling.102,Slotsherrensvej,POINT (12.49364909 55.69417606),3200.0
+trafiktaelling.103,Stormgade,POINT (12.57411058 55.67489002),8400.0
+trafiktaelling.104,Strandvejen,POINT (12.57623817 55.72883669),6300.0
+trafiktaelling.105,Strandvænget,POINT (12.58615826 55.71345726),3000.0
+trafiktaelling.106,Svanemøllebroen,POINT (12.57743568 55.71617708),12000.0
+trafiktaelling.107,Tietgensbro,POINT (12.56681959 55.67121066),8000.0
+trafiktaelling.108,Toftegårdsbroen,POINT (12.51622938 55.66375539),7200.0
+trafiktaelling.109,Tomsgårdsvej,POINT (12.52178265 55.70643303),3500.0
+trafiktaelling.110,Valby Langgade,POINT (12.49299949 55.66937201),4500.0
+trafiktaelling.111,Valby Langgade,POINT (12.48419873 55.67174703),800.0
+trafiktaelling.112,Vejlands Allé,POINT (12.59093008 55.64244706),2800.0
+trafiktaelling.113,Vermlandsgade,POINT (12.60337982 55.66841061),6100.0
+trafiktaelling.114,Vestergade,POINT (12.5698437 55.67751143),8000.0
+trafiktaelling.115,Vester Voldgade,POINT (12.56790106 55.67705949),6000.0
+trafiktaelling.116,Vigerslev Allé,POINT (12.53979966 55.66279815),9000.0
+trafiktaelling.117,Vigerslev Allé,POINT (12.49819552 55.65984011),5300.0
+trafiktaelling.118,Vigerslevvej,POINT (12.50089661 55.64311134),500.0
+trafiktaelling.119,Øresundsvej,POINT (12.61277165 55.66025793),3200.0
+trafiktaelling.120,Østerbrogade,POINT (12.5774222 55.70866169),10000.0
+trafiktaelling.121,Øster Farimagsgade,POINT (12.57945259 55.69514262),7700.0
+trafiktaelling.122,Øster Søgade,POINT (12.57885555 55.69560114),3900.0
+trafiktaelling.123,Ålekistevej,POINT (12.48620046 55.67743528),2000.0
+trafiktaelling.124,Ålekistevej,POINT (12.47907526 55.69726229),3100.0
+trafiktaelling.125,Ålholmvej,POINT (12.48867064 55.67303495),2500.0
+trafiktaelling.126,Amagerfælledvej,POINT (12.59378431 55.6622484),6800.0
+trafiktaelling.127,Blegdamsvej,POINT (12.57541029 55.6984955),5700.0
+trafiktaelling.128,Classensgade,POINT (12.58065233 55.69647486),4700.0
+trafiktaelling.129,Emdrupvej,POINT (12.54624345 55.72159878),1900.0
+trafiktaelling.130,Gothersgade,POINT (12.57460564 55.68431975),19500.0
+trafiktaelling.131,Hamletsgade,POINT (12.54567797 55.70175858),4000.0
+trafiktaelling.132,Hammerichsgade,POINT (12.56428813 55.67808637),6600.0
+trafiktaelling.133,Lyrskovgade,POINT (12.54064162 55.66840998),2700.0
+trafiktaelling.134,Løngangsstræde,POINT (12.57235226 55.67530894),1700.0
+trafiktaelling.135,Peder Lykkes Vej,POINT (12.59536199 55.65495061),5500.0
+trafiktaelling.136,Studiestræde,POINT (12.56759737 55.67792133),2400.0
+trafiktaelling.137,Uplandsgade,POINT (12.61721603 55.6689849),1800.0
+trafiktaelling.138,Århusgade,POINT (12.58794659 55.70695222),3000.0
+trafiktaelling.139,Amager Strandvej,POINT (12.62590481 55.66897282),1000.0
+trafiktaelling.140,Islands Brygge,POINT (12.57967576 55.66934),6600.0
+trafiktaelling.141,Fiolstræde,POINT (12.5718105 55.68244314),1000.0
+trafiktaelling.142,Sjælør Boulevard,POINT (12.52784908 55.65080135),4200.0
+trafiktaelling.143,Roskildevej,POINT (12.49260892 55.67250053),3800.0
+trafiktaelling.144,Landlystvej,POINT (12.47799453 55.66045737),1600.0
+trafiktaelling.145,Blegdamsvej,POINT (12.56558069 55.69324886),7900.0
+trafiktaelling.146,Husumvej,POINT (12.48035566 55.69928707),2500.0
+trafiktaelling.147,Nørre Allé,POINT (12.56138014 55.69551076),8100.0
+trafiktaelling.148,Ved Stadsgraven,POINT (12.59288916 55.6679554),4100.0
+trafiktaelling.149,Rådvadsvej,POINT (12.52969155 55.72091539),500.0
+trafiktaelling.367,Vigerslevvej / Folehaven,POINT (12.48835411 55.652744),
+trafiktaelling.150,Englandsvej,POINT (12.5981686 55.64573286),2200.0
+trafiktaelling.151,Jagtvej,POINT (12.56462381 55.70672979),9500.0
+trafiktaelling.152,Tagensvej,POINT (12.5537195 55.69951001),10300.0
+trafiktaelling.153,Ågade,POINT (12.54109062 55.68805242),4700.0
+trafiktaelling.154,Gammel Jernbanevej,POINT (12.51685577 55.6643639),3000.0
+trafiktaelling.155,Holbækmotorvejen,POINT (12.48594673 55.65269106),0.0
+trafiktaelling.156,Folehaven,POINT (12.50175151 55.65122259),2200.0
+trafiktaelling.157,Webersgade,POINT (12.57421226 55.69012679),5800.0
+trafiktaelling.158,Sundholmsvej,POINT (12.59545219 55.66240294),5700.0
+trafiktaelling.159,Irlandsvej,POINT (12.60813473 55.63934232),1200.0
+trafiktaelling.160,Haraldsgade,POINT (12.56046577 55.70982158),3500.0
+trafiktaelling.161,Borups Allé,POINT (12.51672139 55.70567803),0.0
+trafiktaelling.162,Nordre Fasanvej,POINT (12.53557557 55.69755033),7600.0
+trafiktaelling.163,Peter Bangs Vej,POINT (12.49080876 55.67789716),3200.0
+trafiktaelling.164,Åkandevej,POINT (12.48561411 55.71242208),1300.0
+trafiktaelling.165,Bispeengbuen,POINT (12.53592597 55.69234835),0.0
+trafiktaelling.166,Højbro,POINT (12.57993974 55.67759131),3800.0
+trafiktaelling.167,Landemærket,POINT (12.57806139 55.68307111),3000.0
+trafiktaelling.168,Høje Gladsaxevej,POINT (12.49866412 55.71997238),700.0
+trafiktaelling.169,Godthåbsvej,POINT (12.51609255 55.69074886),8200.0
+trafiktaelling.170,Amagerbrogade,POINT (12.60047789 55.66440328),21000.0
+trafiktaelling.171,Østrigsgade,POINT (12.61301675 55.66603594),3400.0
+trafiktaelling.172,Kastrupvej,POINT (12.61432957 55.660151),3000.0
+trafiktaelling.173,Artillerivej,POINT (12.5679218 55.65296384),2200.0
+trafiktaelling.174,Thorshavnsgade,POINT (12.57850716 55.6670663),4500.0
+trafiktaelling.175,Kronprinsessegade,POINT (12.58692831 55.68999935),3000.0
+trafiktaelling.176,Nørre Farimagsgade,POINT (12.56589777 55.68275269),8400.0
+trafiktaelling.177,Valby Langgade,POINT (12.51664359 55.66663612),3600.0
+trafiktaelling.178,Nygårdsvej,POINT (12.57283162 55.71210843),2700.0
+trafiktaelling.179,Halmtorvet,POINT (12.55909815 55.66983071),500.0
+trafiktaelling.180,Istedgade,POINT (12.55828383 55.67068892),5200.0
+trafiktaelling.181,Vesterbrogade,POINT (12.55650581 55.6724813),13900.0
+trafiktaelling.182,Amagerfælledvej,POINT (12.59465177 55.66512446),8000.0
+trafiktaelling.183,P. Knudsens Gade,POINT (12.52922502 55.65046367),2200.0
+trafiktaelling.184,Lersø Parkallé,POINT (12.55756334 55.7041142),3000.0
+trafiktaelling.185,Lundtoftegade,POINT (12.53830223 55.69586385),1400.0
+trafiktaelling.186,Strandboulevarden,POINT (12.57830532 55.70921381),7400.0
+trafiktaelling.187,Tuborgvej,POINT (12.56371274 55.7279495),3500.0
+trafiktaelling.188,Enghavevej,POINT (12.54589001 55.67128747),10800.0
+trafiktaelling.189,Tagensvej,POINT (12.55961991 55.69698334),13300.0
+trafiktaelling.190,Ingerslevsgade,POINT (12.54352207 55.66327226),7200.0
+trafiktaelling.191,Jagtvej,POINT (12.55934698 55.7036189),9600.0
+trafiktaelling.192,Strandlodsvej,POINT (12.62442078 55.66183897),1100.0
+trafiktaelling.193,Øresundsvej,POINT (12.62697287 55.66157833),1800.0
+trafiktaelling.194,Grønningen,POINT (12.59071904 55.68931623),5900.0
+trafiktaelling.195,St. Kongens Gade,POINT (12.58951881 55.68894828),5200.0
+trafiktaelling.196,Frederikssundsvej,POINT (12.48458303 55.70805537),4200.0
+trafiktaelling.197,Åkandevej,POINT (12.48553294 55.70976522),900.0
+trafiktaelling.198,Nordre Frihavnsgade,POINT (12.57946129 55.70062703),7100.0
+trafiktaelling.199,Nørre Voldgade,POINT (12.57118666 55.6831909),10500.0
+trafiktaelling.200,Hillerødgade,POINT (12.53802508 55.69691445),8300.0
+trafiktaelling.201,Nordre Fasanvej,POINT (12.53527389 55.69613279),10400.0
+trafiktaelling.202,Jyllingevej,POINT (12.49315821 55.69368509),2800.0
+trafiktaelling.203,Sallingvej,POINT (12.49534206 55.69359734),3800.0
+trafiktaelling.204,Retortvej,POINT (12.49776948 55.65929251),2500.0
+trafiktaelling.205,Englandsvej,POINT (12.60574322 55.65726043),3700.0
+trafiktaelling.206,Ørestads Boulevard,POINT (12.58734245 55.66691383),7000.0
+trafiktaelling.207,Artillerivej,POINT (12.58358384 55.66414469),3600.0
+trafiktaelling.208,Njalsgade,POINT (12.58203952 55.66510472),4500.0
+trafiktaelling.920,Skelbækgade_Kødboderne,POINT (12.55762903 55.66618354),
+trafiktaelling.209,Njalsgade,POINT (12.58462957 55.66414012),6900.0
+trafiktaelling.210,Sundkrogsgade,POINT (12.59154125 55.7094478),1800.0
+trafiktaelling.211,Hovedvagtsgade,POINT (12.58417493 55.6807913),500.0
+trafiktaelling.212,Grønnegade,POINT (12.58341793 55.68161058),2000.0
+trafiktaelling.213,Store Regnegade,POINT (12.58249005 55.68189682),1600.0
+trafiktaelling.214,Terrasserne,POINT (12.48930389 55.71771564),400.0
+trafiktaelling.215,Ruten,POINT (12.49150889 55.71695628),400.0
+trafiktaelling.216,Ruten,POINT (12.48684463 55.7171305),600.0
+trafiktaelling.217,Jernbane Allé,POINT (12.4897445 55.68797693),4700.0
+trafiktaelling.218,Jernbane Allé,POINT (12.49091168 55.68668814),4800.0
+trafiktaelling.219,Vanløse Allé,POINT (12.49089424 55.68797432),2600.0
+trafiktaelling.220,Holmbladsgade,POINT (12.6117959 55.66617579),4000.0
+trafiktaelling.221,Vermlandsgade,POINT (12.60563956 55.66818018),3900.0
+trafiktaelling.222,Tagensvej,POINT (12.54447554 55.70517056),9900.0
+trafiktaelling.223,Hulgårdsvej,POINT (12.52128341 55.70526155),2300.0
+trafiktaelling.224,Irlandsvej,POINT (12.6052653 55.64646137),2000.0
+trafiktaelling.225,Sundbyvestervej,POINT (12.60585633 55.64590959),1500.0
+trafiktaelling.226,Frederiksborgvej,POINT (12.53123591 55.71532554),3300.0
+trafiktaelling.227,Lersø Parkallé,POINT (12.54320103 55.71936572),2900.0
+trafiktaelling.228,Tagensvej,POINT (12.53207152 55.71589622),2800.0
+trafiktaelling.229,Utterslevvej,POINT (12.5148932 55.70788399),2400.0
+trafiktaelling.230,Carl Jacobsens Vej,POINT (12.52365072 55.65285506),1300.0
+trafiktaelling.231,Enghave Plads,POINT (12.54500577 55.66745751),4700.0
+trafiktaelling.232,Scandiagade,POINT (12.54049697 55.65197094),1100.0
+trafiktaelling.233,Vester Fælledvej,POINT (12.53948749 55.66697994),4800.0
+trafiktaelling.234,Bellmannsgade,POINT (12.56882603 55.71450738),2200.0
+trafiktaelling.235,Emdrupvej,POINT (12.55574613 55.71861847),2400.0
+trafiktaelling.236,Strandøre,POINT (12.57837344 55.72126571),2000.0
+trafiktaelling.237,Amagerfælledvej,POINT (12.59522699 55.66702045),6200.0
+trafiktaelling.238,Backersvej,POINT (12.62844087 55.64618996),600.0
+trafiktaelling.239,Kløvermarksvej,POINT (12.61684567 55.67588855),1500.0
+trafiktaelling.240,Hedegårdsvej,POINT (12.63519247 55.64530092),900.0
+trafiktaelling.241,Hyltebro,POINT (12.53880387 55.70024301),1100.0
+trafiktaelling.242,Storegårdsvej,POINT (12.47373646 55.7121351),600.0
+trafiktaelling.243,Bernstorffgade,POINT (12.57145837 55.66882987),3900.0
+trafiktaelling.244,Islands Brygge,POINT (12.56769301 55.6589104),3600.0
+trafiktaelling.245,Vejlands Allé,POINT (12.5643737 55.64154707),0.0
+trafiktaelling.246,Vejlands Allé,POINT (12.61499764 55.64370194),700.0
+trafiktaelling.247,Sankt Annæ Plads,POINT (12.59204066 55.68151282),2100.0
+trafiktaelling.248,Annexstræde,POINT (12.51151937 55.66555311),3100.0
+trafiktaelling.249,Borgbjergvej,POINT (12.53842161 55.65241625),2000.0
+trafiktaelling.250,Glasvej,POINT (12.53132337 55.70477437),1400.0
+trafiktaelling.251,Sejrøgade,POINT (12.56191952 55.71013118),3600.0
+trafiktaelling.252,Øresundsmotorvejen,POINT (12.57809503 55.62799494),
+trafiktaelling.253,Marbjergvej,POINT (12.4680431 55.7126345),1600.0
+trafiktaelling.254,Kongelundsvej,POINT (12.5876161 55.6302788),1500.0
+trafiktaelling.255,Søndre Fasanvej,POINT (12.51802627 55.6715195),4600.0
+trafiktaelling.256,Rovsingsgade,POINT (12.54573064 55.70514512),5400.0
+trafiktaelling.257,Kalkbrænderihavnsgade,POINT (12.59372368 55.6961184),6700.0
+trafiktaelling.258,Frederikssundsvej,POINT (12.51885857 55.70637795),5600.0
+trafiktaelling.259,Gyldenløvesgade,POINT (12.56119576 55.68074421),21500.0
+trafiktaelling.260,Tagensvej,POINT (12.54579813 55.70442335),7600.0
+trafiktaelling.261,Bernstorffgade,POINT (12.56748381 55.6720229),4800.0
+trafiktaelling.262,Øster Voldgade,POINT (12.58009554 55.68828869),6200.0
+trafiktaelling.263,Amagermotorvejen,POINT (12.55416857 55.64037262),
+trafiktaelling.264,Amagermotorvejen,POINT (12.55855643 55.64063078),
+trafiktaelling.265,Vejlands Allé,POINT (12.5562267 55.64089003),0.0
+trafiktaelling.266,Vejlands Allé,POINT (12.56266855 55.64148135),0.0
+trafiktaelling.267,Center Boulevard,POINT (12.575411 55.63954841),3500.0
+trafiktaelling.268,Klaksvigsgade,POINT (12.58172955 55.668057),4600.0
+trafiktaelling.269,Ørestads Boulevard,POINT (12.58113749 55.63441929),100.0
+trafiktaelling.270,Italiensvej,POINT (12.62053947 55.65445248),1700.0
+trafiktaelling.271,Teglværksbroen,POINT (12.5503666 55.64759557),3700.0
+trafiktaelling.272,Bagerstræde,POINT (12.55463921 55.67299911),3500.0
+trafiktaelling.273,Langebrogade,POINT (12.58225808 55.67065408),3000.0
+trafiktaelling.274,Værnedamsvej,POINT (12.54997708 55.67331992),5500.0
+trafiktaelling.275,Møllegade,POINT (12.55608163 55.69091285),2100.0
+trafiktaelling.276,Peter Fabers Gade,POINT (12.55551046 55.69112196),2300.0
+trafiktaelling.277,Ægirsgade,POINT (12.5445323 55.69772235),2200.0
+trafiktaelling.278,Baldersgade,POINT (12.54378912 55.69829423),400.0
+trafiktaelling.279,Bragesgade,POINT (12.54279573 55.69881466),1000.0
+trafiktaelling.280,Elmegade,POINT (12.55829242 55.68976304),7300.0
+trafiktaelling.281,Sortedamdosseringen,POINT (12.56311502 55.68772591),4000.0
+trafiktaelling.282,Baggesensgade,POINT (12.55952125 55.68704277),1400.0
+trafiktaelling.283,Stengade,POINT (12.55696894 55.68891811),4500.0
+trafiktaelling.284,Guldbergsgade,POINT (12.55920676 55.69113606),4400.0
+trafiktaelling.285,Møllegade,POINT (12.5586507 55.69259006),3700.0
+trafiktaelling.286,Prinsesse Charlottes Gade,POINT (12.55023214 55.69470343),900.0
+trafiktaelling.287,Stefansgade,POINT (12.5430061 55.69466141),3700.0
+trafiktaelling.288,Esromgade,POINT (12.54018472 55.69751994),300.0
+trafiktaelling.289,Hillerødgade,POINT (12.54234175 55.69745381),6100.0
+trafiktaelling.290,Mimersgade,POINT (12.54317671 55.70066591),4600.0
+trafiktaelling.291,Nannasgade,POINT (12.54632549 55.70091248),600.0
+trafiktaelling.292,Mimersgade,POINT (12.55192878 55.69789838),5500.0
+trafiktaelling.293,Birkegade,POINT (12.55828821 55.69007236),800.0
+trafiktaelling.294,Egegade,POINT (12.55919128 55.69035694),100.0
+trafiktaelling.295,Rådmandsgade,POINT (12.54941494 55.69911578),2100.0
+trafiktaelling.296,Baldersgade,POINT (12.54714464 55.70088306),300.0
+trafiktaelling.297,"Borups Allé
+",POINT (12.52015982 55.70138865),4500.0
+trafiktaelling.298,Frederikssundsvej,POINT (12.52598683 55.70476982),6600.0
+trafiktaelling.299,Jagtvej,POINT (12.54934553 55.69477925),15000.0
+trafiktaelling.300,"Lundtoftegade
+",POINT (12.53849185 55.69741644),2100.0
+trafiktaelling.301,"Lygten
+",POINT (12.538024 55.70456261),6700.0
+trafiktaelling.302,"Mimersgade
+",POINT (12.54002934 55.70106223),5800.0
+trafiktaelling.303,"Mågevej
+",POINT (12.52739879 55.70177929),1800.0
+trafiktaelling.304,"Tomsgårdsvej
+",POINT (12.52401606 55.70813343),3100.0
+trafiktaelling.305,Baldersgade,POINT (12.54632274 55.70039089),
+trafiktaelling.306,Bragesgade,POINT (12.54530989 55.70071569),
+trafiktaelling.307,"Backersvej
+",POINT (12.6180219 55.66082112),2200.0
+trafiktaelling.308,Gasværksvej,POINT (12.55731793 55.67071669),7700.0
+trafiktaelling.309,Gasværksvej,POINT (12.55780689 55.67024783),7900.0
+trafiktaelling.310,Vestergade,POINT (12.57095881 55.67795962),4200.0
+trafiktaelling.311,Skindergade,POINT (12.57280503 55.67864041),5400.0
+trafiktaelling.312,Nørregade,POINT (12.5721517 55.6787244),9500.0
+trafiktaelling.313,Larslejsstræde,POINT (12.56974592 55.67976065),900.0
+trafiktaelling.314,Knippelsbrogade,POINT (12.58766185 55.67439459),100.0
+trafiktaelling.315,Lipkesgade,POINT (12.58521079 55.697992),700.0
+trafiktaelling.316,Niels Hemmingsens Gade,POINT (12.57582941 55.68036691),1600.0
+trafiktaelling.317,Kristianiagade,POINT (12.58604417 55.69383085),800.0
+trafiktaelling.318,Islands Brygge,POINT (12.57277431 55.66383777),5200.0
+trafiktaelling.319,Vendersgade,POINT (12.56607822 55.68490334),6600.0
+trafiktaelling.320,Prøvestensbroen,POINT (12.63119421 55.67085086),
+trafiktaelling.321,Borgmester Christiansens Gade,POINT (12.53375289 55.64928536),1500.0
+trafiktaelling.322,Stubmøllevej,POINT (12.52266771 55.64962037),1000.0
+trafiktaelling.323,Herman Bangs Plads,POINT (12.50334018 55.66727033),200.0
+trafiktaelling.324,Vilhelm Topsøes Vej,POINT (12.50375224 55.66726928),200.0
+trafiktaelling.325,Hjalmar Bergstrøms Vej,POINT (12.50200707 55.66760229),100.0
+trafiktaelling.326,Ole Borchs Vej,POINT (12.49833209 55.66071366),600.0
+trafiktaelling.327,Saxtorphsvej,POINT (12.50016748 55.6612428),100.0
+trafiktaelling.328,Panumsvej,POINT (12.50056449 55.66182821),300.0
+trafiktaelling.329,Hyltebjerg Allé,POINT (12.48456813 55.68269904),3000.0
+trafiktaelling.330,Linde Allé,POINT (12.48511426 55.68126968),500.0
+trafiktaelling.331,Bangsbovej,POINT (12.49785886 55.68924899),200.0
+trafiktaelling.332,Randbølvej,POINT (12.49949978 55.68981507),1100.0
+trafiktaelling.333,Ådalsvej,POINT (12.50069553 55.69030568),100.0
+trafiktaelling.334,Åbakkevej,POINT (12.50204924 55.69081695),100.0
+trafiktaelling.335,Dybendalsvej,POINT (12.50333926 55.69136361),100.0
+trafiktaelling.336,Åløkkevej,POINT (12.50463372 55.69187655),100.0
+trafiktaelling.337,Ny Carlsbergvej,POINT (12.5453616 55.66571664),1800.0
+trafiktaelling.338,Vesterbrogade,POINT (12.5554808 55.67278974),4700.0
+trafiktaelling.339,Hamletsgade / Nannasgade,POINT (12.54496778 55.70135381),
+trafiktaelling.340,Nannasgade / Baldersgade,POINT (12.54692467 55.70071792),
+trafiktaelling.341,Bragesgade / Nørrebrogade,POINT (12.54244267 55.69858896),
+trafiktaelling.342,Nørrebros Runddel,POINT (12.54883676 55.69434472),
+trafiktaelling.343,Sjællandsgade / Nørrebrogade,POINT (12.55137432 55.69265925),
+trafiktaelling.344,Studiestræde / Larsbjørnstræde,POINT (12.56928945 55.67852992),
+trafiktaelling.345,Søtorvet,POINT (12.56528593 55.68577223),4100.0
+trafiktaelling.346,Ørestads Boulevard,POINT (12.58555612 55.64578301),2300.0
+trafiktaelling.347,Ørestads Boulevard / Islands Brygge st.,POINT (12.58466861 55.66285072),
+trafiktaelling.348,Banegårdspladsen / Vesterbrogade,POINT (12.56288396 55.67403059),
+trafiktaelling.349,Vester Farimagsgade / Ved Vesterport,POINT (12.56199044 55.67541116),
+trafiktaelling.350,Nørre Farimagsgade / Gyldenløvsgade,POINT (12.56358969 55.67965561),
+trafiktaelling.351,Jagtvej - Ågade,POINT (12.54138443 55.6877816),
+trafiktaelling.352,Jagtvej / Borups Allé,POINT (12.54273527 55.68898362),
+trafiktaelling.353,Classensgade / Strandboulevarden,POINT (12.59049119 55.69881289),
+trafiktaelling.354,Rosenvængets Hovedvej / Strandboulevarden,POINT (12.58846906 55.70205581),
+trafiktaelling.355,Nordre Frihavnsgade / Strandboulevarden,POINT (12.58788424 55.70343158),
+trafiktaelling.356,Århusgade / Strandboulevarden,POINT (12.58614057 55.70673932),
+trafiktaelling.357,Vordingborggade / Strandboulevarden,POINT (12.58550075 55.70798691),
+trafiktaelling.358,Randersgade / Strandboulevarden,POINT (12.57960682 55.70920136),
+trafiktaelling.359,Bangsbovej / Vanløse Allé,POINT (12.4974536 55.68953708),
+trafiktaelling.360,Randbølvej / Vanløse Allé,POINT (12.49917324 55.69014098),
+trafiktaelling.361,Randbølvej / Katrinedalsvej,POINT (12.49745728 55.69174727),
+trafiktaelling.362,Grøndal Parkvej / Godthåbsvej,POINT (12.51561411 55.69109431),
+trafiktaelling.363,Ved Mønten / Amagerfælledvej,POINT (12.59534419 55.66745693),
+trafiktaelling.364,Tankstation ved Enghave St,POINT (12.54139026 55.66336636),
+trafiktaelling.365,H. C. Andersens Boulevard / Vesterbrogade,POINT (12.56791308 55.67578242),
+trafiktaelling.366,Artillerivej,POINT (12.56413361 55.64233794),4300.0
+trafiktaelling.921,Strandlodsvej_Holmbladsgade,POINT (12.61967776 55.66779428),
+trafiktaelling.368,Folehaven / Sønderkær,POINT (12.48667329 55.6527056),
+trafiktaelling.369,Borgervænget / Bellmansgade,POINT (12.57324557 55.71666139),
+trafiktaelling.370,Øster Allé / Edel Sauntes Allé,POINT (12.5659394 55.70475476),
+trafiktaelling.371,Øster Allé / Per Henrik Lings Allé,POINT (12.56995413 55.70264046),
+trafiktaelling.372,Gyldenløvesgade / Rosenørns Allé,POINT (12.55779729 55.68201742),
+trafiktaelling.373,Dybbølsbro / Kalvebod Brygge,POINT (12.56140591 55.66325),
+trafiktaelling.374,Arresøgade,POINT (12.55619115 55.69718664),400.0
+trafiktaelling.375,Faksegade,POINT (12.58102059 55.69963534),500.0
+trafiktaelling.376,Islands Brygge,POINT (12.5776311 55.66748399),
+trafiktaelling.377,Strandboulevarden,POINT (12.5828332 55.70919162),4500.0
+trafiktaelling.378,Tuborgvej,POINT (12.57503118 55.72672151),2600.0
+trafiktaelling.379,Grøndalsvænge Allé,POINT (12.51623882 55.69138984),1400.0
+trafiktaelling.380,Bygrænsen / Glamsbjergvej,POINT (12.59585519 55.63795254),
+trafiktaelling.381,Østbanegade / Tunnel til Kalkbrænderigade,POINT (12.59104267 55.70350749),
+trafiktaelling.382,Gothersgade,POINT (12.58170178 55.68240416),7300.0
+trafiktaelling.383,Jagtvej,POINT (12.55323179 55.69825735),12100.0
+trafiktaelling.384,H.C. Andersens Boulevard,POINT (12.57096505 55.67421924),26300.0
+trafiktaelling.385,Cykelrute,POINT (12.56487064 55.64191001),3900.0
+trafiktaelling.386,Cykelruten ved Sjællandsbroen / Ved Slusen,POINT (12.555084 55.64205058),
+trafiktaelling.387,Sluseholmen / Sjællandsbroen,POINT (12.54543965 55.64367121),
+trafiktaelling.388,Carl Jacobsens Vej / Trekronergade,POINT (12.52043722 55.65292316),
+trafiktaelling.389,Ellebjergvej / Sjælør Boulevard,POINT (12.52797528 55.65017245),
+trafiktaelling.390,Folehaven / Gammel Køge Landevej,POINT (12.50782246 55.65065024),
+trafiktaelling.391,Folehaven / Retortvej,POINT (12.50303257 55.6510842),
+trafiktaelling.392,Grøndals Parkvej / Jernbane Allé,POINT (12.49356703 55.68387902),
+trafiktaelling.393,Grøndals Parkvej / Flintholm st,POINT (12.49868175 55.68638406),
+trafiktaelling.394,Grøndals Parkvej / C. F. Richs Vej,POINT (12.50115636 55.68793831),
+trafiktaelling.395,Jernbane Allé / Jydeholmen,POINT (12.49126689 55.68629463),
+trafiktaelling.396,Jernbane Allé / Vanløse Allé,POINT (12.48984297 55.68782248),
+trafiktaelling.397,Jyllingevej / Ålekistevej,POINT (12.4810878 55.69120399),
+trafiktaelling.398,Jyllingevej / Jernbane Allé,POINT (12.486761 55.69244153),
+trafiktaelling.399,Jyllingevej / Slotsherrensvej,POINT (12.49416377 55.69385948),
+trafiktaelling.400,Sallingvej / Rebildvej,POINT (12.50670313 55.69315672),
+trafiktaelling.401,Bülowsvej,POINT (12.54302238 55.67988444),3300.0
+trafiktaelling.402,H.C. Ørstedsvej,POINT (12.54780493 55.67925854),8400.0
+trafiktaelling.403,Vesterbrogade,POINT (12.5319848 55.67076595),4400.0
+trafiktaelling.404,Pile Allé,POINT (12.53097401 55.67032465),4500.0
+trafiktaelling.405,Gammel Kongevej,POINT (12.53445154 55.67804358),10300.0
+trafiktaelling.406,Godthåbsvej,POINT (12.52877569 55.68750437),10600.0
+trafiktaelling.407,Finsensvej,POINT (12.51959692 55.6811403),7900.0
+trafiktaelling.408,Peter Bangs Vej,POINT (12.51891444 55.67917078),7800.0
+trafiktaelling.409,Frederiksberg Allé,POINT (12.53341929 55.67467959),4000.0
+trafiktaelling.410,Finsensvej,POINT (12.496853 55.68257909),3300.0
+trafiktaelling.411,C. F. Richsvej,POINT (12.50327504 55.68699312),2300.0
+trafiktaelling.412,Dalgas Boulevard,POINT (12.50665711 55.6734397),1900.0
+trafiktaelling.413,Nordre Fasanvej,POINT (12.52319842 55.68246393),6500.0
+trafiktaelling.414,Falkoner Allé,POINT (12.54048456 55.68698008),8300.0
+trafiktaelling.415,Nyelandsvej,POINT (12.53340601 55.68231717),6000.0
+trafiktaelling.416,Sallingvej / Hulgårdsvej,POINT (12.51002939 55.69469021),
+trafiktaelling.417,Hulgårdsvej / Hvidkildevej,POINT (12.51577237 55.69838656),
+trafiktaelling.418,Vibenshus Runddel,POINT (12.56289334 55.70645228),
+trafiktaelling.419,Nyhavn,POINT (12.59268407 55.67946246),700.0
+trafiktaelling.420,Borups Allé,POINT (12.5370141 55.69227668),6000.0
+trafiktaelling.421,Bragesgade,POINT (12.54414913 55.69978455),700.0
+trafiktaelling.422,Frederikssundsvej,POINT (12.53724428 55.70113728),
+trafiktaelling.423,Frederikssundsvej,POINT (12.53105419 55.70277737),10000.0
+trafiktaelling.424,Frederikssundsvej,POINT (12.53105419 55.70277737),10000.0
+trafiktaelling.425,Lundtoftegade,POINT (12.53862144 55.69221973),2100.0
+trafiktaelling.426,Mimersgade,POINT (12.54177772 55.70083819),5600.0
+trafiktaelling.427,Mjølnerparken,POINT (12.54227146 55.70599485),600.0
+trafiktaelling.428,Nannasgade,POINT (12.54543562 55.70119224),900.0
+trafiktaelling.429,Rentemestervej,POINT (12.53262126 55.70546111),1200.0
+trafiktaelling.430,Rådmandsgade,POINT (12.55151126 55.70022803),2900.0
+trafiktaelling.431,Thorsgade,POINT (12.54747665 55.69589881),700.0
+trafiktaelling.432,Borgmestervangen,POINT (12.53986096 55.70147488),2000.0
+trafiktaelling.433,Ægirsgade,POINT (12.54850383 55.70072823),1100.0
+trafiktaelling.434,Gothersgade,POINT (12.57720523 55.68364262),
+trafiktaelling.435,Sankt Annæ Plads,POINT (12.58940768 55.68227802),
+trafiktaelling.436,Sønder Boulevard,POINT (12.55296791 55.66672413),5300.0
+trafiktaelling.437,Sønder Boulevard,POINT (12.5444129 55.66410723),
+trafiktaelling.438,Teglholmsgade / Støberigade,POINT (12.55244436 55.65151218),
+trafiktaelling.439,Wildersbro,POINT (12.59260675 55.67573332),5400.0
+trafiktaelling.440,Lykkebovej,POINT (12.48605594 55.65895063),700.0
+trafiktaelling.441,Ørestads Boulevard,POINT (12.58494255 55.66366474),3200.0
+trafiktaelling.442,Engvej,POINT (12.62971802 55.65591449),1000.0
+trafiktaelling.443,Gormsgade,POINT (12.54601811 55.69718022),2800.0
+trafiktaelling.444,Heimdalsgade,POINT (12.54128961 55.69997188),400.0
+trafiktaelling.445,Borgmestervangen,POINT (12.5394618 55.70081284),1500.0
+trafiktaelling.446,Gaunøvej,POINT (12.49968235 55.69902006),1500.0
+trafiktaelling.447,Brønshøjvej,POINT (12.49776374 55.70236682),1300.0
+trafiktaelling.448,Sønder Boulevard,POINT (12.54931188 55.66539469),4700.0
+trafiktaelling.449,Istedgade,POINT (12.55222619 55.66884954),5600.0
+trafiktaelling.450,Halmtorvet,POINT (12.55682202 55.66858083),8700.0
+trafiktaelling.451,Krydset Linde Allé/Grøndalsparkvej,POINT (12.49230697 55.68279532),
+trafiktaelling.452,Krydset Guldbergsgade/Møllegade,POINT (12.55750679 55.69186834),
+trafiktaelling.453,Svineryggen,POINT (12.55613134 55.67674693),1000.0
+trafiktaelling.454,Svineryggen,POINT (12.5569214 55.67979951),2700.0
+trafiktaelling.455,Øster Søgade,POINT (12.57580879 55.69407208),100.0
+trafiktaelling.456,Øster Søgade,POINT (12.56950808 55.68963095),0.0
+trafiktaelling.457,Nørre Søgade,POINT (12.56259502 55.68359678),100.0
+trafiktaelling.458,Vester Søgade,POINT (12.5598634 55.67938407),0.0
+trafiktaelling.459,Vester Søgade,POINT (12.55893122 55.67600356),0.0
+trafiktaelling.460,Vordingborggade,POINT (12.58775395 55.70843061),3800.0
+trafiktaelling.461,Vester Voldgade,POINT (12.57633816 55.67277244),8100.0
+trafiktaelling.462,Cykelkryds Hønsestien-Banevolden-Gl. Jernbanevej,POINT (12.51906271 55.6642508),
+trafiktaelling.463,Sti langs banerne,POINT (12.58799197 55.7102154),500.0
+trafiktaelling.464,Vester Voldgade-Frederiksberggade-Rådhuspladsen,POINT (12.56924607 55.67637649),
+trafiktaelling.465,Linde Allé,POINT (12.49193384 55.68282966),3400.0
+trafiktaelling.466,KRYDS Nørrebrogade/Elmegade/Stengade,POINT (12.55741224 55.68913375),
+trafiktaelling.467,Frederiksholms Kanal,POINT (12.5761166 55.67508874),3400.0
+trafiktaelling.468,Sundsholmsvej,POINT (12.59741417 55.66143953),1100.0
+trafiktaelling.469,Sundsholmsvej,POINT (12.60367004 55.657838),0.0
+trafiktaelling.470,Cykelslangen,POINT (12.56415441 55.6624914),16500.0
+trafiktaelling.471,KRYDS Enghavevej/Ingerslevsgade/Vigerslev Allé,POINT (12.54165119 55.6627447),
+trafiktaelling.472,Kryds: Kronprinsessegade/Sølvgade,POINT (12.58357411 55.68604274),
+trafiktaelling.473,Kryds: Kronprinsessegade/Gothersgade,POINT (12.58074135 55.68266237),
+trafiktaelling.474,Vognmagergade,POINT (12.57941284 55.68209996),4700.0
+trafiktaelling.475,Skelbækgade,POINT (12.55784533 55.66590159),7500.0
+trafiktaelling.476,Sti under Tagensvej,POINT (12.54185714 55.70688985),400.0
+trafiktaelling.477,Amager Fælled,POINT (12.5774753 55.65981197),3500.0
+trafiktaelling.478,Ryvangsruten,POINT (12.56427773 55.72273003),300.0
+trafiktaelling.479,Ryvangsruten,POINT (12.56373631 55.72152224),300.0
+trafiktaelling.480,Cykelbro over Lyngbyvej,POINT (12.55879935 55.7152844),1100.0
+trafiktaelling.481,Cykelbro over Nordhavnsvej,POINT (12.56108963 55.71687222),1000.0
+trafiktaelling.482,Fisketorvets Bro,POINT (12.56396856 55.66224647),3000.0
+trafiktaelling.483,Ørnevej,POINT (12.53745064 55.69955965),
+trafiktaelling.484,Strandvænget,POINT (12.57863952 55.71665719),700.0
+trafiktaelling.485,Christians Brygge,POINT (12.57923785 55.67193996),3400.0
+trafiktaelling.486,Ny Kongensgade,POINT (12.57593703 55.67360355),3500.0
+trafiktaelling.487,Søren Kierkegaards Plads,POINT (12.5812959 55.67275091),200.0
+trafiktaelling.488,Christianshavns Torv,POINT (12.59255258 55.67194646),
+trafiktaelling.489,Frederikssundsvej ved Husum Torv,POINT (12.47200469 55.71210436),
+trafiktaelling.490,Islands Brygge Havnebad,POINT (12.57799039 55.66854207),
+trafiktaelling.491,Skuespilhuset,POINT (12.59430206 55.67934678),700.0
+trafiktaelling.492,Kildevældsparken,POINT (12.56709774 55.71472943),
+trafiktaelling.493,Bellmannsgade,POINT (12.56876611 55.71435029),
+trafiktaelling.494,Vognmandsmarken,POINT (12.56742511 55.71401412),
+trafiktaelling.495,Kildevældsgade,POINT (12.56916327 55.71403939),
+trafiktaelling.496,Vennemendevej,POINT (12.56876988 55.71357837),
+trafiktaelling.497,Bryggevangen (Ved Kirken),POINT (12.56757026 55.71356659),
+trafiktaelling.498,Bryggevangen,POINT (12.56540616 55.71124966),
+trafiktaelling.499,Bryggevangen,POINT (12.56475077 55.71006711),
+trafiktaelling.500,Bryggevangen,POINT (12.56407922 55.70859339),
+trafiktaelling.501,Samsøgade,POINT (12.56418446 55.70804787),
+trafiktaelling.502,Australiensvej,POINT (12.56366511 55.70824378),
+trafiktaelling.503,Australiensvej,POINT (12.56453016 55.7084403),
+trafiktaelling.504,Sankt Kjelds Gade,POINT (12.56624774 55.70994194),
+trafiktaelling.505,Langøgade,POINT (12.56874631 55.70981095),
+trafiktaelling.506,Tåsingegade,POINT (12.56924132 55.7101407),
+trafiktaelling.507,Tåsingegade,POINT (12.56707777 55.71032029),
+trafiktaelling.508,Sejrøgade,POINT (12.5641332 55.71054586),
+trafiktaelling.509,Æbeløgade,POINT (12.5643339 55.7110475),
+trafiktaelling.510,Nygårdsvej,POINT (12.56691839 55.71083822),
+trafiktaelling.511,Dr. Louises Bro,POINT (12.56323405 55.68705083),
+trafiktaelling.512,Vesterbrogade,POINT (12.56637453 55.67544069),
+trafiktaelling.513,Nyhavn,POINT (12.58828716 55.68064153),100.0
+trafiktaelling.514,Østergade,POINT (12.58388711 55.68010285),400.0
+trafiktaelling.515,Vimmelskaftet,POINT (12.57397582 55.67853739),400.0
+trafiktaelling.516,Fiolstræde,POINT (12.57319484 55.68030342),
+trafiktaelling.517,Kompagnistræde,POINT (12.57591738 55.67733979),3000.0
+trafiktaelling.518,Blågårdsgade,POINT (12.55927649 55.68733795),
+trafiktaelling.519,Vanløse Torv,POINT (12.49055274 55.68763558),
+trafiktaelling.520,Kay Fiskers Plads,POINT (12.5793385 55.62946366),
+trafiktaelling.521,Østerbrogade,POINT (12.57815879 55.69891705),
+trafiktaelling.522,Østerbrogade,POINT (12.57746681 55.70365028),
+trafiktaelling.523,Østerbrogade,POINT (12.57751385 55.70781102),
+trafiktaelling.524,Østerbrogade,POINT (12.57757505 55.7151795),
+trafiktaelling.525,Amagerbrogade,POINT (12.59840917 55.66656304),
+trafiktaelling.526,Amagerbrogade,POINT (12.60352097 55.6616238),
+trafiktaelling.527,Amagerbrogade,POINT (12.61395736 55.64720633),
+trafiktaelling.528,Nørrebrogade,POINT (12.55209309 55.69222644),
+trafiktaelling.529,Nørrebrogade,POINT (12.54967542 55.69393448),
+trafiktaelling.530,Nørrebrogade,POINT (12.53860587 55.70057515),
+trafiktaelling.531,Nyhavn,POINT (12.59255577 55.6790782),9400.0
+trafiktaelling.532,Vester Voldgade,POINT (12.57615566 55.67277673),
+trafiktaelling.533,Amaliehaven,POINT (12.59502958 55.68349361),1100.0
+trafiktaelling.534,Kalvebod Brygge,POINT (12.57517331 55.66921165),1100.0
+trafiktaelling.535,Frederiksborggade,POINT (12.57110004 55.68379264),
+trafiktaelling.536,Nørre Voldgade,POINT (12.57015889 55.68189987),
+trafiktaelling.537,Nørre Voldgade,POINT (12.57308399 55.68445622),
+trafiktaelling.538,Dampfærgevej,POINT (12.59442033 55.69728052),900.0
+trafiktaelling.539,Sortedam Dossering,POINT (12.57381502 55.69549716),5000.0
+trafiktaelling.540,Nordre Frihavnsgade,POINT (12.57950634 55.70056123),
+trafiktaelling.541,Sortedam Dossering - ved Læssøesgade,POINT (12.56592804 55.68982303),9600.0
+trafiktaelling.542,Vesterbrogade,POINT (12.55893106 55.6729915),
+trafiktaelling.543,Vesterbrogade,POINT (12.55191035 55.67268394),
+trafiktaelling.544,Istedgade,POINT (12.55078561 55.66843893),
+trafiktaelling.545,Istedgade,POINT (12.55783561 55.67055406),
+trafiktaelling.546,Holmbladsgade,POINT (12.60283832 55.66437962),
+trafiktaelling.547,Prags Boulevard,POINT (12.60102419 55.66478389),
+trafiktaelling.548,Islands Brygge,POINT (12.57752052 55.66752775),
+trafiktaelling.549,Emil Holms Kanal,POINT (12.5912205 55.66147087),1400.0
+trafiktaelling.550,Bystævnet,POINT (12.4762924 55.71318931),500.0
+trafiktaelling.551,Frederikssundsvej,POINT (12.500539 55.70464351),
+trafiktaelling.552,Jernbane Alle,POINT (12.49095726 55.6864838),
+trafiktaelling.553,Flintholm station,POINT (12.49855618 55.6859278),
+trafiktaelling.554,Amaliehaven ,POINT (12.59553519 55.68350779),
+trafiktaelling.555,Amaliehaven ,POINT (12.59532697 55.68343596),
+trafiktaelling.556,Amaliehaven ,POINT (12.5953667 55.6832909),
+trafiktaelling.557,Amaliehaven ,POINT (12.5955596 55.68336918),
+trafiktaelling.558,Borgbjergsvej,POINT (12.53710143 55.6511262),
+trafiktaelling.559,Christianshavns Kanal,POINT (12.59220821 55.67315457),900.0
+trafiktaelling.560,Cirkeline Plads,POINT (12.543761 55.66607901),1500.0
+trafiktaelling.561,Damhusdæmningen,POINT (12.47316154 55.68117729),3900.0
+trafiktaelling.562,Applebys Plads (ved Cirkelbroen),POINT (12.58367604 55.67221829),
+trafiktaelling.563,Fiskebroen,POINT (12.5513778 55.64311459),1100.0
+trafiktaelling.564,Frederiksstadsgade ,POINT (12.54596957 55.66906976),500.0
+trafiktaelling.565,Haderslevsgade ,POINT (12.54565931 55.66889322),600.0
+trafiktaelling.566,Islands Brygge,POINT (12.5777164 55.66744539),
+trafiktaelling.567,Ben Websters Vej,POINT (12.5528018 55.64633197),300.0
+trafiktaelling.568,Islands Brygge,POINT (12.5738186 55.66539119),200.0
+trafiktaelling.569,Amagerbrogade,POINT (12.600226 55.66448334),5500.0
+trafiktaelling.570,Store Møllevej,POINT (12.59951405 55.66707957),
+trafiktaelling.571,Strandboulevarden,POINT (12.58192421 55.70930468),
+trafiktaelling.572,Strandboulevarden,POINT (12.5892902 55.70058499),
+trafiktaelling.573,Strandboulevarden,POINT (12.58667629 55.70520703),
+trafiktaelling.574,Nybrogade,POINT (12.57585582 55.67615994),
+trafiktaelling.575,Langeliniekaj,POINT (12.60015409 55.69552949),600.0
+trafiktaelling.576,Matthæusgade ,POINT (12.54575156 55.6696028),2000.0
+trafiktaelling.577,Liva Weels Plads,POINT (12.54612792 55.66544093),100.0
+trafiktaelling.578,Nokken Strandvej,POINT (12.5641209 55.65428503),700.0
+trafiktaelling.579,Nokken Strandvej,POINT (12.56287382 55.65334212),900.0
+trafiktaelling.580,Strandgade,POINT (12.5966004 55.67734911),100.0
+trafiktaelling.581,Nørre Voldgade,POINT (12.57370948 55.68425978),
+trafiktaelling.582,Nørre Voldgade,POINT (12.56965268 55.68223041),
+trafiktaelling.583,Orlogsværftvej,POINT (12.59957897 55.6817172),100.0
+trafiktaelling.584,Peblinge Dossering,POINT (12.5615138 55.68630041),11300.0
+trafiktaelling.585,Refshalevej,POINT (12.60995108 55.69563586),100.0
+trafiktaelling.586,Sluseholmen,POINT (12.54918909 55.64652007),800.0
+trafiktaelling.587,Langebrogade,POINT (12.58079192 55.67042764),9500.0
+trafiktaelling.588,Vasbygade,POINT (12.54593619 55.65622722),4900.0
+trafiktaelling.589,Klædemålet,POINT (12.54527415 55.71527088),
+trafiktaelling.590,Folehaven,POINT (12.50098931 55.65126184),
+trafiktaelling.591,Nordre Toldbod,POINT (12.59806069 55.68948173),
+trafiktaelling.592,Jyllingevej,POINT (12.47661419 55.69086545),
+trafiktaelling.593,Lersø Parkallé,POINT (12.55148874 55.71237824),
+trafiktaelling.594,Banefløjstien,POINT (12.46151188 55.71187133),
+trafiktaelling.595,Korsager Allé,POINT (12.46655122 55.70625833),
+trafiktaelling.596,Amager Boulevard,POINT (12.58113778 55.66909979),
+trafiktaelling.597,Amagerbrogade,POINT (12.61018847 55.6550895),
+trafiktaelling.598,Emdrupvej,POINT (12.5395968 55.72271306),
+trafiktaelling.599,Frederikssundsvej ,POINT (12.50976564 55.70586456),
+trafiktaelling.600,Jagtvej,POINT (12.54443022 55.69024242),0.0
+trafiktaelling.601,Jagtvej,POINT (12.55156685 55.69672541),0.0
+trafiktaelling.602,Lyshøjgårdsvej,POINT (12.50769898 55.66372056),
+trafiktaelling.922,Sydhavnsgade_Scandiagade,POINT (12.53985794 55.65131696),
+trafiktaelling.603,Oslo Plads ,POINT (12.58641531 55.69246555),
+trafiktaelling.604,Oslo Plads ,POINT (12.58702522 55.69213576),
+trafiktaelling.605,Peder Lykkes Vej,POINT (12.59945724 55.65457766),
+trafiktaelling.606,Roskildevej,POINT (12.493873 55.67247456),
+trafiktaelling.607,Sjælør Boulevard,POINT (12.52745634 55.65203762),
+trafiktaelling.608,Slotsherrensvej,POINT (12.46953446 55.69945202),
+trafiktaelling.609,Sølvgade,POINT (12.57557084 55.68871609),
+trafiktaelling.610,Sølvgade,POINT (12.58206053 55.68648997),0.0
+trafiktaelling.611,Tagensvej,POINT (12.55770933 55.69764191),
+trafiktaelling.612,Tomgårdsvej,POINT (12.52859508 55.71029999),
+trafiktaelling.613,Tuborgvej,POINT (12.54084622 55.71950832),
+trafiktaelling.614,Tuborgvej,POINT (12.56346156 55.72788566),
+trafiktaelling.615,Vigerslevvej,POINT (12.48434873 55.66542721),
+trafiktaelling.616,Østerbrogade,POINT (12.57740163 55.70655195),
+trafiktaelling.617,Østerbrogade,POINT (12.577571 55.71101574),
+trafiktaelling.618,Østerbrogade,POINT (12.57884218 55.69785942),
+trafiktaelling.619,Østerbrogade,POINT (12.57751123 55.71563357),0.0
+trafiktaelling.620,Østerbrogade,POINT (12.57751123 55.71563357),
+trafiktaelling.621,Teglværksbroen,POINT (12.55051746 55.64772094),
+trafiktaelling.622,Tove Ditlevsens Plads,POINT (12.54551165 55.66925916),900.0
+trafiktaelling.623,Valby Langgade,POINT (12.50407682 55.66675005),
+trafiktaelling.624,Valbyparken,POINT (12.52568441 55.63734586),100.0
+trafiktaelling.625,Vesterbrogade ,POINT (12.56594632 55.6749046),
+trafiktaelling.626,Yrsa Plads,POINT (12.55802285 55.66535867),7800.0
+trafiktaelling.627,Hyltebjerg Allé,POINT (12.48310519 55.68266687),3000.0
+trafiktaelling.628,Langelinjebroen,POINT (12.59207308 55.69517468),2000.0
+trafiktaelling.629,Tagensvej,POINT (12.54403092 55.7039737),5900.0
+trafiktaelling.630,Tycho Brahes Allé,POINT (12.61484198 55.65606167),400.0
+trafiktaelling.631,Lillegrund,POINT (12.61252471 55.65802064),600.0
+trafiktaelling.632,Øresundsvej,POINT (12.61103488 55.65987015),2300.0
+trafiktaelling.633,Frankrigsgade,POINT (12.60829841 55.6619468),1100.0
+trafiktaelling.634,Nørrebrogade,POINT (12.54152924 55.69880859),9700.0
+trafiktaelling.635,Sydbanestien,POINT (12.52963826 55.652219),700.0
+trafiktaelling.636,Kødboderne,POINT (12.55815535 55.6663667),1800.0
+trafiktaelling.637,Høkerboderne,POINT (12.55751915 55.66845668),1800.0
+trafiktaelling.638,Slagterboderne,POINT (12.558566 55.66901789),800.0
+trafiktaelling.639,Staldgade,POINT (12.56293381 55.6679785),300.0
+trafiktaelling.640,Dronningens Tværgade,POINT (12.58638111 55.68383045),2700.0
+trafiktaelling.641,Borgervænget,POINT (12.56137952 55.71359424),800.0
+trafiktaelling.642,Wittenberggade,POINT (12.61221827 55.66179349),3300.0
+trafiktaelling.643,Carl Jacobsens Vej,POINT (12.5132135 55.65545993),900.0
+trafiktaelling.644,Willemoesgade,POINT (12.5802562 55.69726765),500.0
+trafiktaelling.645,Fiskedamsgade,POINT (12.58841868 55.69866236),600.0
+trafiktaelling.646,Slagelsegade,POINT (12.57944059 55.69825698),1600.0
+trafiktaelling.647,J.E. Ohlsens Gade,POINT (12.57824643 55.70159272),300.0
+trafiktaelling.648,Carl Johans Gade,POINT (12.57832618 55.70209315),400.0
+trafiktaelling.649,Gustav Adolfs Gade,POINT (12.5783495 55.70258247),400.0
+trafiktaelling.650,Weidekampsgade,POINT (12.58519504 55.66605173),1400.0
+trafiktaelling.651,Sankt Jakobs Gade,POINT (12.58107482 55.70232147),700.0
+trafiktaelling.652,Sorøgade,POINT (12.58100274 55.69884033),800.0
+trafiktaelling.653,Alsgade,POINT (12.5398482 55.66508447),200.0
+trafiktaelling.654,Center Boulevard,POINT (12.57344353 55.63464437),200.0
+trafiktaelling.655,Kalkbrænderihavnsgade,POINT (12.59211311 55.70344017),2700.0
+trafiktaelling.656,Reventlowsgade,POINT (12.56291798 55.67337627),2900.0
+trafiktaelling.657,Strandboulevarden,POINT (12.58801414 55.70305346),3700.0
+trafiktaelling.658,Danneskiold-Samsøes Allé,POINT (12.60621333 55.68305474),600.0
+trafiktaelling.659,Flensborggade,POINT (12.54721246 55.66785648),800.0
+trafiktaelling.660,Grøndalsvænge Allé,POINT (12.52153658 55.6958891),1300.0
+trafiktaelling.661,Hillerødgade,POINT (12.54051832 55.69721104),4400.0
+trafiktaelling.662,Irlandsvej,POINT (12.60694206 55.64234905),1100.0
+trafiktaelling.663,Njalsgade,POINT (12.58754867 55.66370802),7100.0
+trafiktaelling.664,Ny Carlsberg Vej,POINT (12.54195552 55.66617036),2500.0
+trafiktaelling.665,Nørre Allé,POINT (12.5610725 55.69282759),5300.0
+trafiktaelling.666,Prinsessegade,POINT (12.59679486 55.67390606),9400.0
+trafiktaelling.667,Skoleholdervej,POINT (12.52047511 55.71114799),500.0
+trafiktaelling.668,Øster Farimagsgade,POINT (12.57743602 55.69273481),4100.0
+trafiktaelling.669,Høkerboderne,POINT (12.55737863 55.66856146),
+trafiktaelling.670,Slagterboderne,POINT (12.55866293 55.66893663),
+trafiktaelling.671,Slagterboderne,POINT (12.55796568 55.66628207),
+trafiktaelling.672,Købmagergade,POINT (12.5795333 55.67928334),800.0
+trafiktaelling.673,Prinsessegade_Sankt_Annæ_gade_X,POINT (12.59425415 55.67237875),
+trafiktaelling.674,Christian IV's Bro,POINT (12.58640744 55.67498005),
+trafiktaelling.675,Ørestads Bolulevard,POINT (12.58211853 55.6349461),
+trafiktaelling.676,Ørestads Bolulevard,POINT (12.58086547 55.63176517),
+trafiktaelling.677,Blegdamsvej,POINT (12.57040885 55.69586879),
+trafiktaelling.678,Valby Langgade,POINT (12.49360578 55.66926665),
+trafiktaelling.679,Sankt Annæ Plads,POINT (12.59208497 55.68156498),
+trafiktaelling.680,Langebro,POINT (12.57793452 55.67054437),
+trafiktaelling.681,Østre Anlæg,POINT (12.58096958 55.69096416),
+trafiktaelling.682,Borgergade,POINT (12.58442033 55.68269028),
+trafiktaelling.683,Bredgade,POINT (12.58764623 55.68129708),
+trafiktaelling.684,Bremerholm,POINT (12.5828114 55.67891747),
+trafiktaelling.685,Frederikkssundsvej,POINT (12.53374673 55.70164226),
+trafiktaelling.686,Gammel Mønt,POINT (12.58153709 55.68120709),
+trafiktaelling.687,H.C. Andersens Boulevard,POINT (12.56679305 55.67724088),
+trafiktaelling.688,H.C. Andersens Boulevard,POINT (12.57123514 55.6743477),
+trafiktaelling.689,Havnegade,POINT (12.59015382 55.67715111),
+trafiktaelling.690,Jagtvej,POINT (12.54951188 55.69471709),
+trafiktaelling.691,Jagtvej,POINT (12.54810974 55.69384746),
+trafiktaelling.692,Jagtvej,POINT (12.55316075 55.6983561),
+trafiktaelling.693,Knippelsbro,POINT (12.58736849 55.67480581),
+trafiktaelling.694,Kristen Bernikows Gade,POINT (12.58231341 55.68010467),
+trafiktaelling.695,Lygten,POINT (12.53764638 55.70216389),
+trafiktaelling.696,Nordre Fasanvej,POINT (12.53732266 55.70079901),
+trafiktaelling.697,Nørre Farigmagsgade,POINT (12.56792942 55.68450685),
+trafiktaelling.698,Rantzausgade,POINT (12.54846144 55.68701375),
+trafiktaelling.699,Store Kongensgade,POINT (12.58597788 55.68213297),
+trafiktaelling.700,Tagensvej,POINT (12.5596793 55.69710016),
+trafiktaelling.701,Tagensvej,POINT (12.54736102 55.7033914),
+trafiktaelling.702,Torvegade,POINT (12.59036066 55.67307592),
+trafiktaelling.703,Vester Farimagsgade,POINT (12.56179926 55.67556873),
+trafiktaelling.704,Vester Voldgade,POINT (12.57244941 55.67489118),
+trafiktaelling.705,Øster Farimagsgade,POINT (12.57004466 55.68620644),
+trafiktaelling.706,Øster Farimagsgade,POINT (12.57570906 55.69071261),
+trafiktaelling.707,Åboulevard,POINT (12.55593426 55.68363588),
+trafiktaelling.708,Damhusengen,POINT (12.46946736 55.68579635),
+trafiktaelling.709,Enghaveparken,POINT (12.54323816 55.66687045),
+trafiktaelling.710,Emdrupvej,POINT (12.54357223 55.72240572),2000.0
+trafiktaelling.711,Stranden ved Svanemøllebugten/Strandparken,POINT (12.58366281 55.72009423),
+trafiktaelling.712,Stranden ved Svanemøllebugten/Strandparken,POINT (12.58366281 55.72009423),
+trafiktaelling.713,Stranden ved Svanemøllebugten/Strandparken,POINT (12.58366281 55.72009423),1600.0
+trafiktaelling.714,Teglholmsgade ,POINT (12.54444835 55.65307746),3100.0
+trafiktaelling.715,Faksegade,POINT (12.58002353 55.70068617),
+trafiktaelling.716,Fisketorvet - Rundkørslen,POINT (12.56165803 55.66297847),5700.0
+trafiktaelling.717,Fisketorvet - Rundkørslen,POINT (12.56212699 55.6629498),5500.0
+trafiktaelling.718,Grenågade,POINT (12.58328373 55.70269969),300.0
+trafiktaelling.719,Nordre Frihavnsgade,POINT (12.58280376 55.70219018),
+trafiktaelling.720,Nordre Frihavnsgade,POINT (12.58959152 55.70350843),
+trafiktaelling.721,Nordre Frihavnsgade,POINT (12.58262284 55.70220372),4500.0
+trafiktaelling.722,Nordre Frihavnsgade,POINT (12.58673422 55.70331034),3600.0
+trafiktaelling.723,Nordre Frihavnsgade,POINT (12.58956831 55.70359463),2700.0
+trafiktaelling.724,Randersgade - Nord for Ndr. Frihavnsgade,POINT (12.58166675 55.70230675),3500.0
+trafiktaelling.725,Rigsdagsgården,POINT (12.58074576 55.67544501),3500.0
+trafiktaelling.726,Vesterbrogade,POINT (12.54339994 55.67101689),8200.0
+trafiktaelling.727,Hjørringggade,POINT (12.58896677 55.70617894),600.0
+trafiktaelling.728,Middelfartgade,POINT (12.58741713 55.70966892),300.0
+trafiktaelling.729,Ringkøbinggade,POINT (12.58777164 55.70907494),100.0
+trafiktaelling.730,Stockholmgade,POINT (12.58103915 55.69159625),1400.0
+trafiktaelling.731,Stormgade,POINT (12.57263508 55.67405823),9000.0
+trafiktaelling.732,Tietgensgade,POINT (12.57154859 55.67309893),9300.0
+trafiktaelling.733,Lergravsvej,POINT (12.62069072 55.66333476),1800.0
+trafiktaelling.734,Lergravsvej,POINT (12.62583369 55.66422605),1000.0
+trafiktaelling.735,Meinungsgade,POINT (12.55439088 55.6924009),1000.0
+trafiktaelling.736,Cirkelbroen,POINT (12.58366565 55.67239507),3100.0
+trafiktaelling.737,Baggesensgade,POINT (12.5585187 55.6874185),900.0
+trafiktaelling.738,Griffenfeldsgade,POINT (12.55565302 55.68956316),3600.0
+trafiktaelling.739,Guldbergsgade,POINT (12.55628329 55.69260181),5000.0
+trafiktaelling.740,Peblinge Dossering,POINT (12.56210951 55.68693687),5100.0
+trafiktaelling.741,Prinsesse Charlottes Gade,POINT (12.55374629 55.69235154),800.0
+trafiktaelling.742,Slotsgade,POINT (12.55793538 55.6886656),400.0
+trafiktaelling.743,X_Korsgade_Blågårdsgade,POINT (12.55709886 55.68548872),
+trafiktaelling.744,Nørrebrogade-Kapelvej_Peter Fabers Gade,POINT (12.55455113 55.69055167),
+trafiktaelling.745,Guldbergsgade-Ahorngade-Birkegade,POINT (12.55862502 55.69138741),
+trafiktaelling.746,Nørre Farimagsgade,POINT (12.56478368 55.68072616),
+trafiktaelling.747,Hørsholmgade - Jagtvej,POINT (12.54422995 55.69030817),
+trafiktaelling.748,Kronborggade - Jagtvej,POINT (12.54521264 55.69116488),
+trafiktaelling.749,Jægersborggade - Jagtvej,POINT (12.5456784 55.69156042),
+trafiktaelling.750,Bjelkes Allé - Jagtvej,POINT (12.54615289 55.69197407),
+trafiktaelling.751,Husumgade - Jagtvej,POINT (12.54671504 55.69248106),
+trafiktaelling.752,Julius Bloms Gade - Jagtvej,POINT (12.54733844 55.69302381),
+trafiktaelling.753,Bispeengbuen - Borups Allé frakørsel,POINT (12.52703167 55.69631536),
+trafiktaelling.754,Bispeengbuen - Ågade - Borups Plads,POINT (12.53777245 55.69052549),
+trafiktaelling.755,Borups Allé - Hulgårdsvej,POINT (12.51951451 55.702001),
+trafiktaelling.756,Borups Allé - Bispeengbuen - Hillerødgade,POINT (12.52583063 55.69674302),
+trafiktaelling.757,Hareskovvej - Pilesvinget,POINT (12.50464328 55.71270914),
+trafiktaelling.758,Jagtvej - Lersø Parkallé,POINT (12.55884973 55.70318536),
+trafiktaelling.759,Jagtvej - Serridslevsvej - Vennemindevej,POINT (12.57034994 55.70777215),
+trafiktaelling.760,Jagtvej - Tagensvej,POINT (12.5543383 55.69914146),
+trafiktaelling.761,Kronprinsesse Sofies Vej - Bispeengbuen,POINT (12.53684352 55.6910903),
+trafiktaelling.762,Åboulevard - H.C. Ørstedsvej - Griffenfeldsgade,POINT (12.55176537 55.68503767),
+trafiktaelling.763,Åboulevard - Blågårdsgade,POINT (12.555163 55.68418608),
+trafiktaelling.764,Åboulevard - Julius Thomsens Gade,POINT (12.55549934 55.68377841),
+trafiktaelling.765,Åboulevard - Rantzausgade - Worsaaesvej,POINT (12.55346791 55.68497472),
+trafiktaelling.766,Ågade - Åboulevard - Bülowsvej,POINT (12.54724289 55.68531167),
+trafiktaelling.767,Mimersgade - Jagtvej,POINT (12.55260362 55.69765842),
+trafiktaelling.768,Borups Allé,POINT (12.51633573 55.70557628),
+trafiktaelling.769,Borups Allé,POINT (12.51717069 55.705698),
+trafiktaelling.770,Hareskovvej,POINT (12.51437683 55.70756306),
+trafiktaelling.771,Hareskovvej,POINT (12.50969443 55.70889264),
+trafiktaelling.772,Mellemvangen,POINT (12.51002753 55.70977126),
+trafiktaelling.773,Mellemvangen,POINT (12.50798237 55.70893988),
+trafiktaelling.774,Mågevej,POINT (12.52375817 55.69866366),
+trafiktaelling.775,Mågevej SYD,POINT (12.52335767 55.69831395),
+trafiktaelling.776,Stengade-Baggesensgade,POINT (12.55622468 55.68826675),
+trafiktaelling.777,Wesselsgade-Baggesensgade,POINT (12.56099907 55.68658823),
+trafiktaelling.778,Griffenfeldsgade,POINT (12.55238807 55.68578442),9000.0
+trafiktaelling.779,Stengade,POINT (12.55536315 55.68742896),5100.0
+trafiktaelling.780,Hammershøis Kaj (ved Cirkelbroen),POINT (12.58413737 55.67250169),
+trafiktaelling.781,Staldgade,POINT (12.56284932 55.66805174),
+trafiktaelling.782,Herninggade,POINT (12.5881143 55.70838789),200.0
+trafiktaelling.783,Holstebrogade,POINT (12.58690692 55.70931725),100.0
+trafiktaelling.784,Middelfartgade,POINT (12.58543864 55.70909379),300.0
+trafiktaelling.785,Vardegade,POINT (12.58676481 55.70769753),100.0
+trafiktaelling.786,Vardegade,POINT (12.58608291 55.7090713),100.0
+trafiktaelling.787,Hans Knudsens Plads,POINT (12.55968729 55.71308092),
+trafiktaelling.788,Vordingborggade_Kalkbrænderihavnsgade,POINT (12.58982124 55.70911223),
+trafiktaelling.789,Lyngbyvej-Sejrøgade - Haraldsgade,POINT (12.56100412 55.70994743),
+trafiktaelling.790,Nørre Allé-Øster Allé,POINT (12.56279004 55.70552847),
+trafiktaelling.791,Strandvejen-Strandøre,POINT (12.5773461 55.72166786),
+trafiktaelling.792,Carl Jacobsens Vej,POINT (12.51905681 55.65324338),
+trafiktaelling.793,Carl Jacobsens Vej,POINT (12.52057842 55.65300484),
+trafiktaelling.794,Hedegaardsvej,POINT (12.64184825 55.64617266),200.0
+trafiktaelling.795,Oehlenschlægergade,POINT (12.54995853 55.66881595),2300.0
+trafiktaelling.796,Saxopgade,POINT (12.55113666 55.6688663),1100.0
+trafiktaelling.797,Valdemarsgade,POINT (12.54913654 55.66769444),2700.0
+trafiktaelling.798,Oehlenschlægergade,POINT (12.55003164 55.66797425),3000.0
+trafiktaelling.799,Eskildsgade,POINT (12.5558857 55.67037315),1300.0
+trafiktaelling.800,Viktoriagade,POINT (12.55848744 55.67117086),1000.0
+trafiktaelling.801,Abel Cathrines Gade,POINT (12.55955758 55.67138884),1000.0
+trafiktaelling.802,Colbjørnsensgade,POINT (12.56200311 55.67240477),700.0
+trafiktaelling.803,Valdemarsgade,POINT (12.54835226 55.67199222),1700.0
+trafiktaelling.804,Lyngbyvej,POINT (12.55699997 55.7190154),5400.0
+trafiktaelling.805,Carlsbergruten,POINT (12.53076609 55.66381517),2500.0
+trafiktaelling.806,Inderhavnsbroen,POINT (12.59469602 55.67849903),18300.0
+trafiktaelling.807,Trangravsbroen (nord),POINT (12.59932411 55.67785143),9700.0
+trafiktaelling.808,Trangravsbroen (sydøst),POINT (12.59902386 55.67754579),2000.0
+trafiktaelling.809,Papirbroen,POINT (12.59908693 55.67809939),3000.0
+trafiktaelling.810,Mellem Proviantbroen og Trangravsbroen,POINT (12.60019485 55.67875085),6500.0
+trafiktaelling.811,Proviantbroen,POINT (12.60075352 55.67943679),4300.0
+trafiktaelling.812,Tagensvej,POINT (12.5547994 55.69884782),11700.0
+trafiktaelling.813,Tagensvej,POINT (12.54840671 55.70294461),8800.0
+trafiktaelling.814,Tagensvej,POINT (12.54765856 55.70336338),8200.0
+trafiktaelling.815,Tagensvej,POINT (12.54004534 55.70799892),9500.0
+trafiktaelling.816,Tagensvej,,9500.0
+trafiktaelling.817,Tagensvej,POINT (12.53941386 55.70864451),6300.0
+trafiktaelling.818,Lønstrupvej,POINT (12.47978473 55.68567648),900.0
+trafiktaelling.819,Lønstrupvej,POINT (12.48157006 55.6860142),400.0
+trafiktaelling.820,Tagensvej,POINT (12.53461311 55.71397771),3400.0
+trafiktaelling.821,Jernbane Allé,POINT (12.49264559 55.68485527),4300.0
+trafiktaelling.822,Enghavevej - Tranehavevej,POINT (12.53804122 55.65553227),
+trafiktaelling.823,Enghavevej - P. Knudsens Gade,POINT (12.53883828 55.65338108),
+trafiktaelling.824,P. Knudsens Gade - Sjælør Boulevard,POINT (12.52806378 55.65024422),
+trafiktaelling.825,Teglholmsgade-Vasbygade,POINT (12.54240335 55.65404364),
+trafiktaelling.826,Amager Boulevard - Amager Fælledvej,POINT (12.59506766 55.66650935),
+trafiktaelling.827,Amager Fælledvej - Njalsgade - Sundholmsvej,POINT (12.59399142 55.66301333),
+trafiktaelling.828,Amager Fælledvej - Røde Mellemvej,POINT (12.59418898 55.65497553),
+trafiktaelling.829,Børsgade - Børsbroen,POINT (12.58472833 55.67563706),
+trafiktaelling.830,Frederiksborgvej - Emdrupvej,POINT (12.52917531 55.72310785),
+trafiktaelling.831,Gammel Køge Landevej - Vigerslevvej,POINT (12.50158765 55.64282666),
+trafiktaelling.832,Holmens Kanal - Bremerholm,POINT (12.58445361 55.67718783),
+trafiktaelling.833,Holmens Kanal - Niels Juels Gade,POINT (12.58628049 55.67768004),
+trafiktaelling.834,Roskildevej - Ålholm Plads,POINT (12.48866352 55.6725377),
+trafiktaelling.835,Røde Mellemvej - Vejlands Allé,POINT (12.59142688 55.64248083),
+trafiktaelling.836,Tagensvej - Frederiksborgvej,POINT (12.53113231 55.71623444),
+trafiktaelling.837,Tagensvej - Lygten,POINT (12.53973848 55.70827126),
+trafiktaelling.838,Tagensvej - Nørre Allé,POINT (12.56148809 55.69635389),
+trafiktaelling.839,Tagensvej - Tuborgvej,POINT (12.53511096 55.71346834),
+trafiktaelling.840,Toftegårds Allé - Lyshøjgårdsvej,POINT (12.5162735 55.66346099),
+trafiktaelling.841,Toftegårds Allé - Gammel Køge Landevej,POINT (12.51675453 55.66166159),
+trafiktaelling.842,Torvegade - Prinsessegade,POINT (12.59294964 55.67159598),
+trafiktaelling.843,Vigerslevvej - Vigerslev Allé,POINT (12.48635247 55.65514948),
+trafiktaelling.844,Ålholmvej - Grøndals Parkvej,POINT (12.48683906 55.67712557),
+trafiktaelling.845,Ålholmvej - Valby Langgade,POINT (12.49046477 55.67024165),
+trafiktaelling.846,Aldersogade-Lersø Parkallé,POINT (12.55725876 55.70643404),
+trafiktaelling.847,Blegdamsvej-Nørre Allé,POINT (12.56111905 55.69087156),
+trafiktaelling.848,Blegdamsvej-Tagensvej-Fredensgade,POINT (12.56630807 55.69363916),
+trafiktaelling.849,Hedegaardsvej-Amager Strandvej,POINT (12.64325227 55.64635802),
+trafiktaelling.850,Kalkbrænderihavnsgade-Corkgade,POINT (12.59133243 55.70644057),
+trafiktaelling.851,Kalkbrænderihavnsgade-Dampfærgevej,POINT (12.59250421 55.7009927),
+trafiktaelling.852,Kalkbrænderihavnsgade-Marmorvej,POINT (12.59233187 55.70320643),
+trafiktaelling.853,Kalkbrænderihavnsgade-Sundkrogsgade,POINT (12.59004869 55.70906742),
+trafiktaelling.854,Havnegade,POINT (12.59279047 55.67884076),
+trafiktaelling.855,Kalkbrænderihavnsgade-Århusgade,POINT (12.59096064 55.70728543),
+trafiktaelling.856,Kvæsthusgade,POINT (12.59341202 55.67960302),400.0
+trafiktaelling.857,Lygten,POINT (12.5392973 55.70803159),4300.0
+trafiktaelling.858,Nyhavnsbroen,POINT (12.59127242 55.6795831),
+trafiktaelling.859,Nyhavnsbroen,POINT (12.59127242 55.6795831),
+trafiktaelling.860,Passagen ved Matthæuskirken,POINT (12.54756104 55.66946478),100.0
+trafiktaelling.861,Poppelgade-Ahorngade,POINT (12.55945377 55.69192087),
+trafiktaelling.862,Ryesgade,POINT (12.57052304 55.69441229),1200.0
+trafiktaelling.863,Sankt Hans Torv_Guldbergsgade,POINT (12.56078923 55.69047725),
+trafiktaelling.864,Strandlodsvej-Lergravsvej,POINT (12.62288108 55.66376259),
+trafiktaelling.865,Teglgårdsstræde,POINT (12.56837634 55.67945004),1000.0
+trafiktaelling.866,Toldbodgade,POINT (12.59295289 55.6815703),4600.0
+trafiktaelling.867,Torvegade,POINT (12.59424205 55.67092082),700.0
+trafiktaelling.868,Ved Langebro,POINT (12.58083401 55.66955125),2200.0
+trafiktaelling.869,Ørestads Boulevard-Grønjordsvej,POINT (12.5888956 55.65492682),
+trafiktaelling.870,Farimagsgade-Gothersgade,POINT (12.5692301 55.68572427),
+trafiktaelling.871,Nørre Voldgade-Gothersgade,POINT (12.57353116 55.68458984),
+trafiktaelling.872,Nørre Voldgade-HCAB,POINT (12.56496244 55.67851742),
+trafiktaelling.873,Nørre Voldgade-Vendersgade,POINT (12.57071123 55.6827512),
+trafiktaelling.874,Nørre Voldgade-Vester Voldgade,POINT (12.5660314 55.67901818),
+trafiktaelling.875,Søgaderne-Frederiksborggade,POINT (12.56528337 55.68613676),
+trafiktaelling.876,Søgaderne-Gothersgade,POINT (12.56583763 55.68660379),
+trafiktaelling.877,Søgaderne-HCAB,POINT (12.56039541 55.68106277),
+trafiktaelling.878,Søgaderne-Sølvgade,POINT (12.57147523 55.69076437),
+trafiktaelling.879,Søgaderne-Webersgade,POINT (12.57201089 55.69106472),
+trafiktaelling.880,Øster Farimagsgade-Sølvgade,POINT (12.57438476 55.68940902),
+trafiktaelling.881,Øster Voldgade-Sølvgade,POINT (12.57838507 55.68751554),
+trafiktaelling.882,Skelbækgade,POINT (12.55727341 55.66653717),0.0
+trafiktaelling.883,Vendersgade,POINT (12.57015973 55.68304582),
+trafiktaelling.884,Vasbygade,POINT (12.54633312 55.65613988),4300.0
+trafiktaelling.885,Banegårdspladsen,POINT (12.56323791 55.67356176),1400.0
+trafiktaelling.886,Amager Boulevard-Klaksvigsgade-Ved Langebro,POINT (12.58235886 55.66858813),
+trafiktaelling.887,Amager Boulevard-Ved Stadsgraven,POINT (12.59076505 55.66756975),
+trafiktaelling.888,Amager Boulevard_Ørestads Boulevard,POINT (12.58770233 55.66768227),
+trafiktaelling.889,Amager Fælledvej_Kaj Munksvej,POINT (12.59264503 55.65870682),
+trafiktaelling.890,Amager Fælledvej_Rued Langgaards Vej,POINT (12.59308899 55.66019759),
+trafiktaelling.891,Amagerbrogade_Amager Bouluevard,POINT (12.5993321 55.66549023),
+trafiktaelling.892,Amagerbrogade_Elbagade,POINT (12.61121481 55.65322151),
+trafiktaelling.893,Amagerbrogade_Frankrigsgade,POINT (12.60508344 55.66035868),
+trafiktaelling.894,Amagerbrogade_Gerbrandtsvej,POINT (12.61413545 55.64676824),
+trafiktaelling.895,Amagerbrogade_Holmbladsgade,POINT (12.60091994 55.66396538),
+trafiktaelling.896,Amagerbrogade_Oxford Allé,POINT (12.61283332 55.64961015),
+trafiktaelling.897,Amagerbrogade_Vejlands Allé,POINT (12.61552324 55.64378913),
+trafiktaelling.898,Amagerbrogade_Wibrandtsvej,POINT (12.61438133 55.64620897),
+trafiktaelling.899,Amagerbrogade_Øresundsvej,POINT (12.6078556 55.65808706),
+trafiktaelling.900,Bernstorffsgade_Polititorvet,POINT (12.57024002 55.66956611),
+trafiktaelling.901,Birkedommervej_Tomsgaardsvej,POINT (12.52609782 55.70911132),
+trafiktaelling.902,Bispebjerg Bakke_Tagensvej,POINT (12.53780388 55.71042324),
+trafiktaelling.903,Bispebjergvej_Tuborgvej,POINT (12.53839918 55.71671623),
+trafiktaelling.904,Blegdamsvej_Trianglen_Østre Allé,POINT (12.5766864 55.69922411),
+trafiktaelling.905,Emdrupvej_Lyngbyvej,POINT (12.55683054 55.7186335),
+trafiktaelling.906,Frederiksborgvej_Tuborgvej,POINT (12.53206506 55.71187061),
+trafiktaelling.907,Frederikssundsvej_Tomsgaardsvej,POINT (12.52159845 55.70600956),
+trafiktaelling.908,Kalvebod Brygge_Havneholmen,POINT (12.55787375 55.66145355),
+trafiktaelling.909,Kalvebod Brygge_Arni Magnussons Gade,POINT (12.56597003 55.6653452),
+trafiktaelling.910,Kalvebod Brygge_Bernstorffs Gade,POINT (12.57213646 55.6682359),
+trafiktaelling.911,Lersø Parkallé_Haraldsgade,POINT (12.5563994 55.70778219),
+trafiktaelling.912,Nørre Farimagsgade_Ahlefeldtsgade,POINT (12.56621057 55.68311789),
+trafiktaelling.913,Nørre Farimagsgade_Frederiksborggade,POINT (12.56826575 55.68497589),
+trafiktaelling.914,Nørre Farimagsgade_Vendersgade,POINT (12.56734816 55.68421949),
+trafiktaelling.915,Prags Boulevard_Raffinaderivej,POINT (12.62124813 55.66937731),
+trafiktaelling.916,Prags Boulevard_Strandlodsvej,POINT (12.61889233 55.66891174),
+trafiktaelling.917,Rentemestervej_Tomsgårdsvej,POINT (12.52366486 55.70795107),
+trafiktaelling.918,Sjælør Boulevard_Carl Jakobsens Vej,POINT (12.52738528 55.65227779),
+trafiktaelling.919,Skelbækgade_Ingerslevsgade_Dybbølsbro,POINT (12.55855055 55.66526879),
+trafiktaelling.923,Tagensvej_Hamletsgade,POINT (12.54807392 55.70312103),
+trafiktaelling.924,Tagensvej_Rovsingsgade,POINT (12.54532698 55.70477948),
+trafiktaelling.925,Tagensvej_Rådmandsgade,POINT (12.55228516 55.70056919),
+trafiktaelling.926,Tuborgvej_Emdrupvej,POINT (12.54525552 55.72204816),
+trafiktaelling.927,Tuborgvej_Emdrupvej_Strandvejen,POINT (12.57624598 55.72671734),
+trafiktaelling.928,Ved Stadsgraven_Amager Fælledvej,POINT (12.59560206 55.66837126),
+trafiktaelling.929,Ved Vesterport_Hammerichsgade,POINT (12.56321424 55.67573783),
+trafiktaelling.930,Vermlandsgade_Amagerbrogade,POINT (12.59630862 55.66870451),
+trafiktaelling.931,Vermlandsgade_Holmbladsgade,POINT (12.61259607 55.66632199),
+trafiktaelling.932,Vermlandsgade_Kløvermarksvej,POINT (12.60043791 55.66871052),
+trafiktaelling.933,Vermlandsgade_Prags Boulevard,POINT (12.61165064 55.6672622),
+trafiktaelling.934,Vermlandsgade_Uplandsgade,POINT (12.60422669 55.66830531),
+trafiktaelling.935,Vesterbrogade_Stenosgade,POINT (12.55728316 55.67264115),
+trafiktaelling.936,Øster Farimagsgade_Sølvgade_Webersgade,POINT (12.5746337 55.68966555),
+trafiktaelling.937,Østerbrogade_Jagtvej,POINT (12.57747997 55.70916066),
+trafiktaelling.938,Østerbrogade_Ryesgade,POINT (12.57839543 55.69858205),
+trafiktaelling.939,Østerbrogade_Trianglen_Nordre Frihavnsgade,POINT (12.57756789 55.69965135),
+trafiktaelling.940,Østerbrogade_Trianglen_Odensegade,POINT (12.57791763 55.6992401),
+trafiktaelling.941,Østerbrogade_Øster Søgade_Classensgade,POINT (12.57996381 55.69620288),
+trafiktaelling.942,Østerbrogade_Dag Hammerskjölds Allé_Øster Farimags,POINT (12.58022711 55.69580193),
+trafiktaelling.943,Ålandsgade_Holmbladsgade,POINT (12.60429016 55.66463101),
+trafiktaelling.944,Dronningensgade,POINT (12.59178537 55.67187899),500.0
+trafiktaelling.945,Overgaden oven Vandet,POINT (12.59164728 55.67274275),800.0
+trafiktaelling.946,A.C. Meyers Vænge,POINT (12.54090652 55.6502211),
+trafiktaelling.947,A.C. Meyers Vænge,POINT (12.54403298 55.65305634),
+trafiktaelling.948,Amager Strandvej,POINT (12.63382952 55.65992595),
+trafiktaelling.949,Baldersgade,POINT (12.54779929 55.70125406),
+trafiktaelling.950,Bangsbovej,POINT (12.49849138 55.68873218),
+trafiktaelling.951,Bangsbovej,POINT (12.49608542 55.69038636),
+trafiktaelling.952,Carl Jacobsens Vej,POINT (12.51833364 55.65346683),
+trafiktaelling.953,Clara Pontoppidans Vej,POINT (12.51102682 55.65664838),
+trafiktaelling.954,Dybbølsbro,POINT (12.55898331 55.66498816),
+trafiktaelling.955,Dybendalsvej,POINT (12.50369851 55.6910119),
+trafiktaelling.956,Enghave Plads,POINT (12.54632484 55.667413),
+trafiktaelling.957,Englandsvej,POINT (12.60034823 55.63654075),
+trafiktaelling.958,Gavlhusvej,POINT (12.4857156 55.72236894),
+trafiktaelling.959,Holbergsgade,POINT (12.59075199 55.67888738),
+trafiktaelling.960,Ib Schøngers Allé,POINT (12.51145902 55.65610813),
+trafiktaelling.961,Irlandsvej,POINT (12.60557528 55.64579552),
+trafiktaelling.962,Irlandsvej,POINT (12.60703892 55.64212275),
+trafiktaelling.963,Irlandsvej,POINT (12.60399461 55.64973396),
+trafiktaelling.964,Istedgade,POINT (12.56051287 55.67142965),
+trafiktaelling.965,Istedgade,POINT (12.55056046 55.6683797),
+trafiktaelling.966,Istedgade,POINT (12.55211082 55.66882671),
+trafiktaelling.967,Katrinedalsvej,POINT (12.49812929 55.69197791),
+trafiktaelling.968,Katrinedalsvej,POINT (12.49537173 55.69115015),
+trafiktaelling.969,Langhusvej,POINT (12.47941952 55.71914384),
+trafiktaelling.970,Lersø Parkallé,POINT (12.55722303 55.70517223),
+trafiktaelling.971,Raffinaderivej,POINT (12.61802081 55.67308692),
+trafiktaelling.972,Randbølvej,POINT (12.50012271 55.6891317),
+trafiktaelling.973,Randbølvej,POINT (12.49836024 55.69090024),
+trafiktaelling.974,Randbølvej,POINT (12.49649663 55.69261615),
+trafiktaelling.975,Rovsingsgade,POINT (12.54653448 55.70595296),
+trafiktaelling.976,Sjællandsbroen,POINT (12.54321726 55.6455486),
+trafiktaelling.977,Sndiagade,POINT (12.54099304 55.65248363),
+trafiktaelling.978,Smyrnavej,POINT (12.61423733 55.65134697),
+trafiktaelling.979,Solvænget,POINT (12.57890841 55.7189449),
+trafiktaelling.980,Solvænget,POINT (12.58043235 55.71912413),
+trafiktaelling.981,Nørrebrogade,POINT (12.54560924 55.69648373),
+trafiktaelling.982,Strandlodsvej,POINT (12.62275381 55.6639107),
+trafiktaelling.983,Sydhavnsgade,POINT (12.54186808 55.64729558),
+trafiktaelling.984,Teglholmsgade,POINT (12.54321646 55.65351065),
+trafiktaelling.985,Toldbodgade,POINT (12.59186648 55.68031582),
+trafiktaelling.986,Tom Kristensens Vej,POINT (12.58582349 55.66034288),
+trafiktaelling.987,Torveporten,POINT (12.50887961 55.65372856),
+trafiktaelling.988,Vanløse Allé,POINT (12.4978757 55.68967398),
+trafiktaelling.989,Vanløse Allé,POINT (12.4994575 55.69024407),
+trafiktaelling.990,Vanløse Allé,POINT (12.49686313 55.68933717),
+trafiktaelling.991,Vejlands Allé,POINT (12.59719129 55.64250664),
+trafiktaelling.992,Østerbrogade,POINT (12.57765597 55.71433513),
+trafiktaelling.993,Østerled,POINT (12.57864685 55.7181856),
+trafiktaelling.994,Østerled,POINT (12.58040881 55.71838054),
+trafiktaelling.995,Åbakkevej,POINT (12.50289445 55.69004764),
+trafiktaelling.996,Lyshøjgårdsvej,POINT (12.51464938 55.6634072),2500.0
+trafiktaelling.997,Lyshøjgårdsvej,POINT (12.51464603 55.66333581),
+trafiktaelling.998,Lyshøjgårdsvej,POINT (12.51262646 55.66337647),2400.0
+trafiktaelling.999,Lyshøjgårdsvej,POINT (12.51265785 55.66331873),
+trafiktaelling.1000,Papirøens bro,POINT (12.59910494 55.67803811),3000.0
+trafiktaelling.1001,Strandgade,POINT (12.59780405 55.67778619),3400.0
+trafiktaelling.1002,Trangravsvej,POINT (12.59990031 55.67778791),4500.0
+trafiktaelling.1003,Trangravsvej,POINT (12.5999028 55.67773113),4500.0
+trafiktaelling.1004,Brøndkærvej-Søndre Fasanvej,POINT (12.51721848 55.6675753),
+trafiktaelling.1005,Heibergsgade-Herluf Trolles Gade,POINT (12.58836567 55.6793713),
+trafiktaelling.1006,Rantzausgade-Grønne Sti,POINT (12.54480416 55.68829019),15200.0
+trafiktaelling.1007,Sti ved Nøkkerosevej,POINT (12.5394016 55.72371407),0.0
+trafiktaelling.1008,Tordenskjoldsgade,POINT (12.5873167 55.67851327),400.0
+trafiktaelling.1009,Wildersgade,POINT (12.59037684 55.67337474),100.0
+trafiktaelling.1010,Gothersgade,POINT (12.5744852 55.6842781),
+trafiktaelling.1011,Nybrogade,POINT (12.57609683 55.6762619),1400.0
+trafiktaelling.1012,Belvederebroen,POINT (12.55315188 55.65596557),1300.0
+trafiktaelling.1013,Bernstoffsgade,POINT (12.56496326 55.67390315),
+trafiktaelling.1014,Frederiksborggade,POINT (12.56652532 55.68553081),
+trafiktaelling.1015,Frederiksholms Kanal,POINT (12.57612274 55.67500433),
+trafiktaelling.1016,Frederiksholms Kanal,POINT (12.57811523 55.67336496),
+trafiktaelling.1017,Gothersgade,POINT (12.58493193 55.68148031),
+trafiktaelling.1018,Sankt Annæ Plads,POINT (12.58937151 55.6822351),1800.0
+trafiktaelling.1019,"Torvegade, ved Ravelinen",POINT (12.59524647 55.67027411),
+trafiktaelling.1020,Vendersgade,POINT (12.56675851 55.68459146),
+trafiktaelling.1021,Bernstoffsgade,POINT (12.56711302 55.67184634),
+trafiktaelling.1022,Halmtorvet,POINT (12.55799653 55.6690662),8700.0
+trafiktaelling.1023,Valby Langgade,POINT (12.50491111 55.66666325),3100.0
+trafiktaelling.1024,Center Boulevard-Arne Jacobsens Allé,POINT (12.57210373 55.63153308),
+trafiktaelling.1025,Strandpromenaden,POINT (12.58330998 55.71814975),2700.0
+trafiktaelling.1026,Nørregade,POINT (12.57104611 55.68218263),
+trafiktaelling.1027,Marmorbroen,POINT (12.57674062 55.67483012),300.0
+trafiktaelling.1028,Prinsensbro,POINT (12.57758886 55.67417791),
+trafiktaelling.1029,Prinsensbro,POINT (12.57765487 55.67423922),4100.0
+trafiktaelling.1030,Tøjhusgade,POINT (12.57865691 55.67460679),3700.0
+trafiktaelling.1031,Højbro,POINT (12.57982535 55.6776081),
+trafiktaelling.1032,Hannemanns Allé,POINT (12.57729953 55.62635113),400.0
+trafiktaelling.1033,Ørestads Boulevard,POINT (12.5778245 55.62558326),1700.0
+trafiktaelling.1034,Strandvejen,POINT (12.57727046 55.72137408),6400.0
+trafiktaelling.1035,Salingvej-Randbølvej,POINT (12.49590496 55.69352058),
+trafiktaelling.1036,Sallingvej-Åbakkevej,POINT (12.49964153 55.69288371),
+trafiktaelling.1037,Sallingvej-Morsøvej-Rebildvej-Gyvelvej,POINT (12.50690289 55.69310381),
+trafiktaelling.1038,Tøjhusgade,POINT (12.5787914 55.67460228),
+trafiktaelling.1039,Linnésgade,POINT (12.56957736 55.68311969),400.0
+trafiktaelling.1040,Alfred Nobels Bro,POINT (12.55596711 55.6532557),3100.0
+trafiktaelling.1041,Frederikssundsvej,POINT (12.4737732 55.71142923),
+trafiktaelling.1042,Istedgade,POINT (12.55219536 55.66892129),
+trafiktaelling.1043,Nørrebrogade,POINT (12.54826275 55.69481854),
+trafiktaelling.1044,Vesterbrogade,POINT (12.54347478 55.67095809),
+trafiktaelling.1045,Valby Langgade,POINT (12.516598 55.66668003),
+trafiktaelling.1046,Vesterbrogade,POINT (12.55651658 55.67256094),
+trafiktaelling.1047,Jægersborggade,POINT (12.54485692 55.69212949),
+trafiktaelling.1048,Lille Langebro,POINT (12.57984393 55.67102822),16700.0
+trafiktaelling.1049,Fælledvej,POINT (12.5598683 55.68848772),
+trafiktaelling.1050,Borgbjergsvej,POINT (12.53843646 55.65260753),
+trafiktaelling.1051,Borgbjergsvej,POINT (12.53496318 55.6493383),
+trafiktaelling.1052,Fælledparken,POINT (12.57089444 55.69642567),
+trafiktaelling.1053,Elmegade,POINT (12.55844889 55.68976582),
+trafiktaelling.1054,Karens Minde v. Thomas Koppels Allé,POINT (12.53096006 55.64589713),100.0
+trafiktaelling.1055,Kirsebærhaven,POINT (12.50327544 55.64937903),600.0
+trafiktaelling.1056,Karens Minde v. Wagnersvej,POINT (12.52961914 55.6471083),400.0
+trafiktaelling.1057,Scandiagade,POINT (12.53774215 55.64960126),
+trafiktaelling.1058,Scandiagade,POINT (12.53736415 55.64953198),
+trafiktaelling.1059,Vigerslevvej,POINT (12.48771008 55.65233093),300.0
+trafiktaelling.1060,Vigerslevvej,POINT (12.49348489 55.64757289),
+trafiktaelling.1061,Vigerslevvej,POINT (12.49034626 55.64914445),1100.0
+trafiktaelling.1062,Sundby Kirkegård (gamle del),POINT (12.61980317 55.65695014),
+trafiktaelling.1063,Sundbyhave,POINT (12.61701493 55.65459246),
+trafiktaelling.1064,Fælledparken - v. indgang fra Øster Allé,POINT (12.56953908 55.70233662),3100.0
+trafiktaelling.1065,Peter Fabers Gade,POINT (12.55524584 55.69100326),1500.0
+trafiktaelling.1066,Stengade,POINT (12.55700809 55.68902867),
+trafiktaelling.1067,Bådehavnsgade-Sjællandsbroen,POINT (12.54258505 55.64603758),
+trafiktaelling.1068,Sydhavnsgade-Borgmester Christiansens Gade-Frederi,POINT (12.54223364 55.64665982),
+trafiktaelling.1069,Vejlands Allé-Artillerivej-Selinevej,POINT (12.56359473 55.64149368),
+trafiktaelling.1070,Vejlands Allé-Center Boulvard,POINT (12.57594416 55.64097843),
+trafiktaelling.1071,Vejlands Allé-Motorvejen_vestlig fletning,POINT (12.55333853 55.64102352),
+trafiktaelling.1072,Vejlands Allé-Motorvejen-østlig fletning,POINT (12.55962669 55.64104518),
+trafiktaelling.1073,Slotsholmsgade,POINT (12.58475349 55.67509602),2200.0
+trafiktaelling.1074,Børsgade,POINT (12.58424202 55.67572458),6400.0
+trafiktaelling.1075,Børsbroen,POINT (12.58472542 55.67603562),14700.0
+trafiktaelling.1076,Holmensbro,POINT (12.58249959 55.67665694),4700.0
+trafiktaelling.1077,Folehavebroen,POINT (12.48708726 55.65274775),1100.0
+trafiktaelling.1078,Refshalevej,POINT (12.61228661 55.68447149),2500.0
+trafiktaelling.1079,Refshalevej,POINT (12.61092334 55.68741252),2800.0
+trafiktaelling.1080,Frederiksholms Kanal,POINT (12.57925005 55.67315573),200.0
+trafiktaelling.1081,Stefansgade,POINT (12.54293622 55.69444176),
+trafiktaelling.1082,Randersgade_Århusgade,POINT (12.58050392 55.7061705),
+trafiktaelling.1083,Vester Søgade_Kampmannsgade,POINT (12.5595973 55.67781175),
+trafiktaelling.1084,Rantzausgade,POINT (12.55302749 55.68529986),8100.0
+trafiktaelling.1085,Rantzausgade,POINT (12.54574146 55.68792145),9900.0
+trafiktaelling.1086,Nordre Frihavnsgade,POINT (12.58674513 55.70324309),
+trafiktaelling.1087,Jagtvej,POINT (12.54329402 55.68947385),13900.0
+trafiktaelling.1088,Blågårdsgade,POINT (12.55597789 55.68457929),2200.0
+trafiktaelling.1089,Borups Allé,POINT (12.54092948 55.68988596),4100.0
+trafiktaelling.1090,Ewaldsgade,POINT (12.55742703 55.68272137),400.0
+trafiktaelling.1091,Hørsholmsgade,POINT (12.54249477 55.69307879),800.0
+trafiktaelling.1092,Nørrebrogade,POINT (12.55568031 55.68981048),22100.0
+trafiktaelling.1093,Peblinge Dossering,POINT (12.56201334 55.68696266),
+trafiktaelling.1094,Wesselsgade,POINT (12.56085574 55.68646126),1300.0
+trafiktaelling.1095,Wesselsgade,POINT (12.55919597 55.68502686),1200.0
+trafiktaelling.1096,Indiakaj,POINT (12.59862171 55.69513514),2200.0
+trafiktaelling.1097,Langelinie,POINT (12.59500643 55.6942737),2500.0
+trafiktaelling.1098,Langelinie Allé,POINT (12.59946439 55.69541253),1700.0
+trafiktaelling.1099,Langelinie Allé,POINT (12.59875033 55.6947792),1400.0
+trafiktaelling.1100,Langelinie,POINT (12.59882271 55.69296286),2800.0
+trafiktaelling.1101,Stefansgade,POINT (12.54125671 55.69289969),1800.0
+trafiktaelling.1102,Stefansgade,POINT (12.54475834 55.69638631),3500.0
+trafiktaelling.1103,Stefansgade,POINT (12.53955078 55.6911617),1300.0
+trafiktaelling.1104,Hamletsgade,POINT (12.54561294 55.70182342),
+trafiktaelling.1105,Ægirsgade,POINT (12.54439353 55.69772471),
+trafiktaelling.1106,Mimersgade,POINT (12.55221193 55.69788896),
+trafiktaelling.1107,Rosenborggade,POINT (12.57489663 55.68403923),1200.0
+trafiktaelling.1108,Sjæleboderne,POINT (12.57956709 55.68255792),200.0
+trafiktaelling.1109,Møntergade,POINT (12.58038905 55.68244188),3500.0
+trafiktaelling.1110,Christian IX's Gade,POINT (12.58087242 55.68220544),9900.0
+trafiktaelling.1111,Ny Adelgade,POINT (12.58450666 55.68107982),600.0
+trafiktaelling.1112,Lille Kongensgade,POINT (12.58457355 55.67966279),3300.0
+trafiktaelling.1113,Holmens Kanal,POINT (12.58502743 55.6773567),11000.0
+trafiktaelling.1114,Havnegade,POINT (12.58548428 55.67618058),1000.0
+trafiktaelling.1115,Ny Vestergade,POINT (12.57452689 55.67406407),700.0
+trafiktaelling.1116,Sankt Peders Stræde,POINT (12.56721029 55.67874597),2200.0
+trafiktaelling.1117,Tornebuskegade,POINT (12.57387816 55.68394876),4400.0
+trafiktaelling.1118,Frode Jakobsens Plads,POINT (12.49083562 55.68707921),
+trafiktaelling.1119,Guldbergsgade,POINT (12.55617087 55.69258372),
+trafiktaelling.1120,Guldbergsgade,POINT (12.55322822 55.6960788),3600.0
+trafiktaelling.1121,Guldbergsgade,POINT (12.55331767 55.69611998),
+trafiktaelling.1122,Ho Chi Mihn-stien,POINT (12.58590658 55.69638168),1500.0
+trafiktaelling.1123,Kapelvej,POINT (12.55431175 55.69032007),3900.0
+trafiktaelling.1124,Kapelvej,POINT (12.55430163 55.69024742),
+trafiktaelling.1125,Kortløb,POINT (12.5579699 55.65881365),4500.0
+trafiktaelling.1126,Ravnsborggade,POINT (12.56300321 55.68945366),1900.0
+trafiktaelling.1127,Ravnsborggade,POINT (12.56299456 55.68934582),
+trafiktaelling.1128,Ryesgade,POINT (12.56504032 55.69081969),1300.0
+trafiktaelling.1129,Ryesgade,POINT (12.56498131 55.69086782),
+trafiktaelling.1130,Avedøreruten,POINT (12.47377362 55.61743913),800.0
+trafiktaelling.1131,Avedøreruten,POINT (12.54746764 55.63759668),900.0
+trafiktaelling.1132,Vasbygade_Kortløb,POINT (12.557064 55.65888982),
+trafiktaelling.1133,Christian IX's Gade,POINT (12.58096544 55.68233285),
+trafiktaelling.1134,Færgehavnsvej,POINT (12.59754246 55.71704806),900.0
+trafiktaelling.1135,Grønnegade,POINT (12.58344095 55.68154478),
+trafiktaelling.1136,Kattegatvej,POINT (12.60590183 55.71719135),500.0
+trafiktaelling.1137,Landemærket,POINT (12.57802948 55.68297025),
+trafiktaelling.1138,Nyhavn,POINT (12.58822225 55.68017761),
+trafiktaelling.1139,Oceanvej,POINT (12.60768214 55.71648239),400.0
+trafiktaelling.1140,Admiralgade,POINT (12.58277525 55.67701991),200.0
+trafiktaelling.1141,Bremerholm,POINT (12.58419271 55.6774798),12600.0
+trafiktaelling.1142,Bremerholm,POINT (12.58435283 55.67745987),
+trafiktaelling.1143,Bryghuspladsen,POINT (12.57830425 55.6723035),1000.0
+trafiktaelling.1144,Frederiksholms Kanal,POINT (12.5753895 55.67572067),7000.0
+trafiktaelling.1145,Frederiksholms Kanal,POINT (12.57521531 55.6757536),
+trafiktaelling.1146,Guldbergsgade,POINT (12.55899905 55.69116264),5200.0
+trafiktaelling.1147,Nikolajgade,POINT (12.58335438 55.67743219),200.0
+trafiktaelling.1148,Ny Kongensgade,POINT (12.57589392 55.67353175),
+trafiktaelling.1149,Torvegade-Dronningensgade,POINT (12.59206334 55.67206543),
+trafiktaelling.1150,Torvegade-fodgængerfelt,POINT (12.59433324 55.67086398),
+trafiktaelling.1151,Torvegade-Overgaden oven Vandet,POINT (12.59122255 55.67248693),
+trafiktaelling.1152,Torvegade-Strandgade,POINT (12.58911593 55.67359634),
+trafiktaelling.1153,Ved Stranden,POINT (12.58233855 55.67687808),1100.0
+trafiktaelling.1154,Vestergade,POINT (12.56882985 55.67683211),
+trafiktaelling.1155,Ålandsgade,POINT (12.60550164 55.66348918),1100.0
+trafiktaelling.1156,Lavendelstræde,POINT (12.57115533 55.67606238),1200.0
+trafiktaelling.1157,Prags Boulevard_Amager Strandvej,POINT (12.62490105 55.67011852),
+trafiktaelling.1158,Christiansborg Slotsplads,POINT (12.58051977 55.67713682),8500.0
+trafiktaelling.1159,Cykelsti over Rådhuspladsen,POINT (12.56774882 55.67660135),11400.0
+trafiktaelling.1160,Skudehavnsvej,POINT (12.59700485 55.71663869),100.0
+trafiktaelling.1161,Store Regnegade,POINT (12.58197748 55.68160214),
+trafiktaelling.1162,Vester Voldgade ø.f. Nørre Voldgade,POINT (12.56623959 55.67870844),6100.0
+trafiktaelling.1163,Bellahøjvej,POINT (12.49694616 55.69459367),1500.0
+trafiktaelling.1164,Borrebyvej,POINT (12.49494738 55.69442325),200.0
+trafiktaelling.1165,Brønshøjvej,POINT (12.49922676 55.69540424),600.0
+trafiktaelling.1166,Skellet,POINT (12.49545904 55.6720635),700.0
+trafiktaelling.1167,Skellet,POINT (12.49638302 55.66910436),600.0

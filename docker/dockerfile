@@ -1,0 +1,25 @@
+FROM python:3.9
+
+RUN mkdir data
+
+# Set the working directory inside the container
+WORKDIR /app
+
+# Install Python dependencies from requirements.txt
+RUN pip install torch==2.5.0+cu124 --index-url https://download.pytorch.org/whl/cu124
+RUN pip install torch-scatter torch-sparse torch-geometric torch-cluster -f https://data.pyg.org/whl/torch-2.5.0+cu124.html
+RUN pip install scikit-learn matplotlib networkx
+RUN pip install wandb
+RUN pip install pytz
+RUN pip install python-dateutil
+RUN WANDB_DISABLE_SSL_VERIFY=true
+
+# Copy your application code and requirements file
+COPY data/graphs/ /app/data/graphs/
+COPY script.py /app/
+
+# set volume
+VOLUME /app/data
+
+# Run the application
+CMD ["python3", "/app/script.py"]

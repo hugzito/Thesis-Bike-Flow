@@ -1,0 +1,59 @@
+\begin{table}
+\caption{Results of the experiments conducted on the benchmark datasets. The validation accuracy is reported as the maximum value achieved during training. The task type indicates whether the task is binary classification, multi-class classification, or regression. Accuracy values are rounded to three decimal places. For classification tasks, the accuracy is computed as the average of the per-class accuracies. For regression tasks, the accuracy is computed as the R-squared score.}
+\label{tab:wandb_export}
+\begin{tabular}{lcccccc}
+\toprule
+Name & Feature Set & Model Type & Hidden Channels & Attention Heads & Task & Number of Layers & Validation Accuracy* & Test Accuracy \\
+\midrule
+upbeat-firebrand-246 & 29 & GAT & 250 & 1 & 10 Bin & 0 & 0.221 & 0.115 \\
+bumbling-morning-275 & 29 & GAT & 250 & 1 & 10 Bin & 2 & 0.211 & 0.073 \\
+wise-water-247 & 29 & GCN & 250 & 0 & 10 Bin & 0 & 0.211 & 0.115 \\
+splendid-dew-244 & 28 & GCN & 250 & 0 & 10 Bin & 0 & 0.200 & 0.125 \\
+wandering-eon-277 & 28 & GCN & 250 & 0 & 10 Bin & 2 & 0.200 & 0.135 \\
+zany-water-293 & 29 & GAT & 250 & 1 & 10 Bin & 1 & 0.189 & 0.094 \\
+treasured-star-222 & 17 & GCN & 200 & 0 & 10 Bin & 0 & 0.189 & 0.135 \\
+fearless-sky-252 & 28 & GCN & 400 & 0 & 10 Bin & 0 & 0.189 & 0.125 \\
+fragrant-surf-250 & 28 & GCN & 150 & 0 & 10 Bin & 0 & 0.189 & 0.167 \\
+smart-butterfly-243 & 28 & GCN & 300 & 0 & 10 Bin & 0 & 0.189 & 0.125 \\
+sweet-sea-253 & 28 & GCN & 50 & 0 & 10 Bin & 0 & 0.189 & 0.125 \\
+earnest-valley-245 & 28 & GAT & 250 & 1 & 10 Bin & 0 & 0.179 & 0.115 \\
+sage-dew-294 & 28 & GAT & 250 & 1 & 10 Bin & 1 & 0.179 & 0.135 \\
+comfy-morning-271 & 29 & GAT & 150 & 1 & 10 Bin & 0 & 0.179 & 0.115 \\
+good-smoke-270 & 29 & GAT & 150 & 1 & 10 Bin & 0 & 0.168 & 0.135 \\
+fluent-snowflake-254 & 28 & GAT & 50 & 1 & 10 Bin & 0 & 0.168 & 0.135 \\
+zesty-gorge-295 & 28 & GCN & 250 & 0 & 10 Bin & 1 & 0.158 & 0.104 \\
+dauntless-night-251 & 28 & GAT & 300 & 1 & 10 Bin & 0 & 0.158 & 0.094 \\
+neat-flower-274 & 29 & GAT & 250 & 1 & 10 Bin & 2 & 0.147 & 0.135 \\
+fast-fire-299 & 29 & MLP & 250 & 0 & 10 Bin & 0 & 0.147 & 0.094 \\
+toasty-bee-224 & 17 & GAT & 100 & 3 & 10 Bin & 0 & 0.147 & 0.083 \\
+blooming-water-223 & 17 & GAT & 200 & 1 & 10 Bin & 0 & 0.137 & 0.125 \\
+skilled-microwave-248 & 28 & GAT & 200 & 1 & 10 Bin & 0 & 0.126 & 0.083 \\
+fallen-cloud-273 & 29 & GAT & 250 & 3 & 10 Bin & 0 & 0.105 & 0.073 \\
+eager-aardvark-239 & 29 & GAT & 100 & 1 & Binary & 0 & 0.768 & 0.594 \\
+toasty-leaf-238 & 29 & GCN & 100 & 0 & Binary & 0 & 0.726 & 0.542 \\
+bumbling-tree-233 & 28 & GAT & 200 & 1 & Binary & 0 & 0.716 & 0.625 \\
+dashing-water-236 & 28 & GAT & 150 & 1 & Binary & 0 & 0.695 & 0.573 \\
+clean-universe-234 & 28 & GCN & 100 & 0 & Binary & 0 & 0.695 & 0.594 \\
+dry-night-300 & 29 & MLP & 100 & 0 & Binary & 0 & 0.695 & 0.615 \\
+dulcet-plant-237 & 28 & GAT & 150 & 1 & Binary & 0 & 0.695 & 0.573 \\
+easy-energy-232 & 28 & GCN & 200 & 0 & Binary & 0 & 0.663 & 0.615 \\
+amber-plant-235 & 28 & GCN & 350 & 0 & Binary & 0 & 0.653 & 0.583 \\
+mild-deluge-241 & 28 & GCN & 200 & 0 & Binary & 2 & 0.642 & 0.510 \\
+ethereal-plasma-240 & 28 & GCN & 200 & 0 & Binary & 2 & 0.642 & 0.521 \\
+devoted-yogurt-265 & 28 & GAT & 200 & 1 & Regression & 0 & 0.126 & -0.210 \\
+curious-glade-288 & 28 & GAT & 250 & 1 & Regression & 0 & 0.122 & -1.293 \\
+jumping-sunset-269 & 28 & GAT & 150 & 1 & Regression & 0 & 0.097 & -0.020 \\
+rural-sun-289 & 28 & GAT & 250 & 1 & Regression & 0 & 0.071 & 0.052 \\
+summer-dream-267 & 29 & GCN & 200 & 0 & Regression & 0 & 0.058 & -0.345 \\
+feasible-grass-286 & 23 & GAT & 200 & 1 & Regression & 0 & 0.037 & -0.086 \\
+dashing-frost-263 & 29 & GAT & 100 & 1 & Regression & 0 & 0.025 & -0.087 \\
+glad-eon-284 & 24 & GCN & 150 & 0 & Regression & 0 & 0.022 & -0.153 \\
+solar-plasma-231 & 24 & GCN & 200 & 0 & Regression & 0 & 0.022 & -0.182 \\
+royal-sponge-283 & 24 & GCN & 200 & 0 & Regression & 0 & 0.020 & -0.168 \\
+breezy-thunder-264 & 28 & GAT & 100 & 1 & Regression & 0 & -0.012 & -0.139 \\
+swift-donkey-266 & 29 & GAT & 200 & 1 & Regression & 0 & -0.019 & -0.206 \\
+youthful-monkey-268 & 29 & GAT & 250 & 1 & Regression & 0 & -0.059 & -0.197 \\
+graceful-sunset-302 & 28 & MLP & 200 & 0 & Regression & 0 & -0.063 & -0.043 \\
+\bottomrule
+\end{tabular}
+\end{table}

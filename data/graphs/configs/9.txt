@@ -1,0 +1,3 @@
+features: amenity shop building aerialway aeroway barrier boundary craft emergency highway historic landuse leisure healthcare military natural office power public_transport railway place service tourism waterway route water
+expand_features: building highway natural amenity
+distance: 5000
